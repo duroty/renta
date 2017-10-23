@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'TiemposHeadline-Regular';
+    src: url(../fonts/TiemposHeadlineWeb-Regular.eot?&v=1490809541062#iefix) format('embedded-opentype'),url(../fonts/TiemposHeadlineWeb-Regular.woff?v=1490809541062) format('woff');
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'TiemposHeadline-Black';
+    src: url(../fonts/TiemposHeadlineWeb-Black.eot?&v=1490809541062#iefix) format('embedded-opentype'),url(../fonts/TiemposHeadlineWeb-Black.woff?v=1490809541062) format('woff');
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'TiemposHeadline-Bold';
+    src: url(../fonts/TiemposHeadlineWeb-Bold.eot?&v=1490809541062#iefix) format('embedded-opentype'),url(../fonts/TiemposHeadlineWeb-Bold.woff?v=1490809541062) format('woff');
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'TiemposHeadline-Semibold';
+    src: url(../fonts/TiemposHeadlineWeb-Semibold.eot?&v=1490809541062#iefix) format('embedded-opentype'),url(../fonts/TiemposHeadlineWeb-Semibold.woff?v=1490809541062) format('woff');
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'TiemposHeadline-Medium';
+    src: url(../fonts/TiemposHeadlineWeb-Medium.eot?&v=1490809541062#iefix) format('embedded-opentype'),url(../fonts/TiemposHeadlineWeb-Medium.woff?v=1490809541062) format('woff');
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'TiemposText-Regular';
+    src: url(../fonts/TiemposTextWeb-Regular.eot?&v=1490809541062#iefix) format('embedded-opentype'),url(../fonts/TiemposTextWeb-Regular.woff?v=1490809541062) format('woff');
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'TiemposText-RegularItalic';
+    src: url(../fonts/TiemposTextWeb-RegularItalic.eot?&v=1490809541062#iefix) format('embedded-opentype'),url(../fonts/TiemposTextWeb-RegularItalic.woff?v=1490809541062) format('woff');
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'TiemposText-Semibold';
+    src: url(../fonts/TiemposTextWeb-Semibold.eot?&v=1490809541062#iefix) format('embedded-opentype'),url(../fonts/TiemposTextWeb-Semibold.woff?v=1490809541062) format('woff');
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'TiemposText-SemiboldItalic';
+    src: url(../fonts/TiemposTextWeb-SemiboldItalic.eot?&v=1490809541062#iefix) format('embedded-opentype'),url(../fonts/TiemposTextWeb-SemiboldItalic.woff?v=1490809541062) format('woff');
+    font-weight: normal;
+    font-style: normal
+}
+
+* {
+	-webkit-font-smoothing: antialiased;
+	webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+strong {font-family: "TiemposText-Semibold";}
+
+body {
+	color: #000;
+}
+
+body { font-family: "TiemposText-Regular"; font-size: 18px; line-height: 26px; margin-left:0; margin-right: 0; padding-left: 0; padding-right: 0;}
+
+.container { width: 800px; margin: 0 auto; }
+
+.autocomplete-suggestions { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; border: 1px solid #999; background: #FFF; cursor: default; overflow: auto; -webkit-box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64); -moz-box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64); box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64); }
+.autocomplete-suggestion { padding: 2px 5px; white-space: nowrap; overflow: hidden; }
+.autocomplete-no-suggestion { padding: 2px 5px;}
+.autocomplete-selected { background: #F0F0F0; }
+.autocomplete-suggestions strong { font-weight: bold; color: #000; }
+.autocomplete-group { padding: 2px 5px; font-weight: bold; font-size: 16px; color: #000; display: block; border-bottom: 1px solid #000; }
+
+input { font-size: 28px; padding: 10px; border: 1px solid #CCC; display: block; margin: 20px 0; width: 100%;}
+
+.search-box {
+    border-top: 4px solid #001c4c;
+    border-bottom: 4px solid #001c4c;
+    padding:25px 0 25px 0;
+    margin: 0;
+}
+
+.referendum-copy-search {
+    font-family: "TiemposHeadline-Black";
+    font-size: 30px;
+    line-height: 34px;
+    text-align: center;
+    color: #001c4c;
+    padding: 0;
+    margin: 0 0 20px 0;
+}
+
+.region {
+  background: #e6e6e6;
+  padding: 15px;
+}
+
+.region p {
+  margin:0 0 0 0;
+}
+
+.region .referendum-copy-search {
+  margin: 0 0 20px 0;
+}
+
+input[type="submit"].btn-block,
+input[type="reset"].btn-block,
+input[type="button"].btn-block {
+  width: 100%;
+}
+
+/*** MOBILE ***/
+@media (max-width: 600px) {
+  .referendum-copy-search {
+      font-size: 26px;
+      line-height: 28px;
+      margin: 0 0 20px 0;
+  }
+
+  .autocomplete-suggestion { padding: 5px 5px; }
+
+  .search-box {
+      padding:20px 0 20px 0;
+  }
+}

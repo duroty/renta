@@ -1,0 +1,956 @@
+CODE,MUNICIPIO,SI,NO,BLANCO,NULO,NOTES
+abella-de-la-conca,Abella de la Conca,7286,4523,397,489,El censo de <strong>Abella de la Conca</strong> es <strong>17686</strong> y ha participado un <strong>72%</strong>
+abrera,Abrera,6388,4039,288,370,El censo de <strong>Abrera</strong> es <strong>14266</strong> y ha participado un <strong>78%</strong>
+ager,Àger,8555,4859,495,208,El censo de <strong>Àger</strong> es <strong>19069</strong> y ha participado un <strong>74%</strong>
+agramunt,Agramunt,5315,5817,276,259,El censo de <strong>Agramunt</strong> es <strong>15259</strong> y ha participado un <strong>76%</strong>
+aguilar-de-segarra,Aguilar de Segarra,5043,3593,189,308,El censo de <strong>Aguilar de Segarra</strong> es <strong>14316</strong> y ha participado un <strong>64%</strong>
+agullana,Agullana,7095,5255,117,178,El censo de <strong>Agullana</strong> es <strong>17743</strong> y ha participado un <strong>71%</strong>
+aiguafreda,Aiguafreda,5678,3186,164,437,El censo de <strong>Aiguafreda</strong> es <strong>14721</strong> y ha participado un <strong>64%</strong>
+aiguamurcia,Aiguamúrcia,7902,4088,117,347,El censo de <strong>Aiguamúrcia</strong> es <strong>16968</strong> y ha participado un <strong>73%</strong>
+aiguaviva,Aiguaviva,5441,5599,255,248,El censo de <strong>Aiguaviva</strong> es <strong>16858</strong> y ha participado un <strong>68%</strong>
+aitona,Aitona,5079,3951,207,112,El censo de <strong>Aitona</strong> es <strong>14609</strong> y ha participado un <strong>64%</strong>
+alas-i-cerc,Alàs i Cerc,9377,4704,360,221,El censo de <strong>Alàs i Cerc</strong> es <strong>18236</strong> y ha participado un <strong>80%</strong>
+albanya,Albanyà,8338,5359,112,211,El censo de <strong>Albanyà</strong> es <strong>17716</strong> y ha participado un <strong>79%</strong>
+albatarrec,Albatàrrec,6454,5650,168,190,El censo de <strong>Albatàrrec</strong> es <strong>17349</strong> y ha participado un <strong>72%</strong>
+albesa,Albesa,9556,3654,367,199,El censo de <strong>Albesa</strong> es <strong>18976</strong> y ha participado un <strong>73%</strong>
+albinyana,Albinyana,5215,5503,141,160,El censo de <strong>Albinyana</strong> es <strong>15419</strong> y ha participado un <strong>71%</strong>
+albons,Albons,5634,3323,353,243,El censo de <strong>Albons</strong> es <strong>13962</strong> y ha participado un <strong>68%</strong>
+alcanar,Alcanar,8366,3026,157,110,El censo de <strong>Alcanar</strong> es <strong>16390</strong> y ha participado un <strong>71%</strong>
+alcano,Alcanó,6507,4465,364,242,El censo de <strong>Alcanó</strong> es <strong>17397</strong> y ha participado un <strong>67%</strong>
+alcarras,Alcarràs,7982,4221,179,194,El censo de <strong>Alcarràs</strong> es <strong>17301</strong> y ha participado un <strong>73%</strong>
+alcoletge,Alcoletge,7425,5708,222,246,El censo de <strong>Alcoletge</strong> es <strong>18357</strong> y ha participado un <strong>74%</strong>
+alcover,Alcover,8678,4589,104,171,El censo de <strong>Alcover</strong> es <strong>16821</strong> y ha participado un <strong>81%</strong>
+aldover,Aldover,5496,5984,222,277,El censo de <strong>Aldover</strong> es <strong>17270</strong> y ha participado un <strong>69%</strong>
+alella,Alella,8728,4552,189,433,El censo de <strong>Alella</strong> es <strong>18961</strong> y ha participado un <strong>73%</strong>
+alfara-de-carles,Alfara de Carles,6353,4719,251,150,El censo de <strong>Alfara de Carles</strong> es <strong>16874</strong> y ha participado un <strong>68%</strong>
+alfarras,Alfarràs,9221,3092,388,391,El censo de <strong>Alfarràs</strong> es <strong>17424</strong> y ha participado un <strong>75%</strong>
+alfes,Alfés,9115,5293,481,216,El censo de <strong>Alfés</strong> es <strong>18365</strong> y ha participado un <strong>82%</strong>
+alforja,Alforja,7250,3009,266,457,El censo de <strong>Alforja</strong> es <strong>16095</strong> y ha participado un <strong>68%</strong>
+algerri,Algerri,5494,4322,279,163,El censo de <strong>Algerri</strong> es <strong>14113</strong> y ha participado un <strong>73%</strong>
+alguaire,Alguaire,5084,4164,395,176,El censo de <strong>Alguaire</strong> es <strong>15173</strong> y ha participado un <strong>65%</strong>
+alins,Alins,9629,5796,398,302,El censo de <strong>Alins</strong> es <strong>20769</strong> y ha participado un <strong>78%</strong>
+alio,Alió,8750,4055,346,185,El censo de <strong>Alió</strong> es <strong>18907</strong> y ha participado un <strong>71%</strong>
+almacelles,Almacelles,8359,3516,144,446,El censo de <strong>Almacelles</strong> es <strong>17220</strong> y ha participado un <strong>72%</strong>
+almatret,Almatret,7247,4023,491,225,El censo de <strong>Almatret</strong> es <strong>17707</strong> y ha participado un <strong>68%</strong>
+almenar,Almenar,9635,4589,176,129,El censo de <strong>Almenar</strong> es <strong>19648</strong> y ha participado un <strong>74%</strong>
+almoster,Almoster,8932,4925,376,468,El censo de <strong>Almoster</strong> es <strong>19570</strong> y ha participado un <strong>75%</strong>
+alos-de-balaguer,Alòs de Balaguer,8476,3938,259,208,El censo de <strong>Alòs de Balaguer</strong> es <strong>18356</strong> y ha participado un <strong>70%</strong>
+alp,Alp,7743,4939,277,471,El censo de <strong>Alp</strong> es <strong>18453</strong> y ha participado un <strong>73%</strong>
+alpens,Alpens,6521,5613,270,297,El censo de <strong>Alpens</strong> es <strong>16339</strong> y ha participado un <strong>78%</strong>
+alpicat,Alpicat,7490,4998,304,235,El censo de <strong>Alpicat</strong> es <strong>17066</strong> y ha participado un <strong>76%</strong>
+alt-aneu,Alt Àneu,6334,3716,414,130,El censo de <strong>Alt Àneu</strong> es <strong>14337</strong> y ha participado un <strong>74%</strong>
+altafulla,Altafulla,8643,4931,405,307,El censo de <strong>Altafulla</strong> es <strong>17818</strong> y ha participado un <strong>80%</strong>
+amer,Amer,6994,5894,425,142,El censo de <strong>Amer</strong> es <strong>17581</strong> y ha participado un <strong>77%</strong>
+amposta,Amposta,8451,4467,212,457,El censo de <strong>Amposta</strong> es <strong>17215</strong> y ha participado un <strong>79%</strong>
+angles,Anglès,7349,5046,496,137,El censo de <strong>Anglès</strong> es <strong>17004</strong> y ha participado un <strong>77%</strong>
+anglesola,Anglesola,6804,4720,466,414,El censo de <strong>Anglesola</strong> es <strong>17455</strong> y ha participado un <strong>71%</strong>
+arbeca,Arbeca,7226,3815,448,240,El censo de <strong>Arbeca</strong> es <strong>15500</strong> y ha participado un <strong>76%</strong>
+arboli,Arbolí,6597,3800,426,366,El censo de <strong>Arbolí</strong> es <strong>14635</strong> y ha participado un <strong>76%</strong>
+arbucies,Arbúcies,8273,5532,250,491,El censo de <strong>Arbúcies</strong> es <strong>18980</strong> y ha participado un <strong>77%</strong>
+arenys-de-mar,Arenys de Mar,8736,4332,263,325,El censo de <strong>Arenys de Mar</strong> es <strong>16921</strong> y ha participado un <strong>81%</strong>
+arenys-de-munt,Arenys de Munt,8868,4335,104,200,El censo de <strong>Arenys de Munt</strong> es <strong>19022</strong> y ha participado un <strong>71%</strong>
+argelaguer,Argelaguer,7336,5074,204,433,El censo de <strong>Argelaguer</strong> es <strong>17211</strong> y ha participado un <strong>76%</strong>
+argencola,Argençola,6159,5457,421,329,El censo de <strong>Argençola</strong> es <strong>15638</strong> y ha participado un <strong>79%</strong>
+argentona,Argentona,9734,3953,212,333,El censo de <strong>Argentona</strong> es <strong>18880</strong> y ha participado un <strong>75%</strong>
+arnes,Arnes,5592,4512,405,487,El censo de <strong>Arnes</strong> es <strong>14225</strong> y ha participado un <strong>77%</strong>
+arres,Arres,9466,5691,177,108,El censo de <strong>Arres</strong> es <strong>19020</strong> y ha participado un <strong>81%</strong>
+arseguel,Arsèguel,9697,4747,399,110,El censo de <strong>Arsèguel</strong> es <strong>19588</strong> y ha participado un <strong>76%</strong>
+artes,Artés,7869,4432,224,334,El censo de <strong>Artés</strong> es <strong>17750</strong> y ha participado un <strong>72%</strong>
+artesa-de-lleida,Artesa de Lleida,6428,4638,139,146,El censo de <strong>Artesa de Lleida</strong> es <strong>17099</strong> y ha participado un <strong>66%</strong>
+artesa-de-segre,Artesa de Segre,5622,3757,389,384,El censo de <strong>Artesa de Segre</strong> es <strong>13170</strong> y ha participado un <strong>77%</strong>
+asco,Ascó,6793,4834,213,302,El censo de <strong>Ascó</strong> es <strong>15203</strong> y ha participado un <strong>80%</strong>
+aspa,Aspa,5307,5260,360,306,El censo de <strong>Aspa</strong> es <strong>14765</strong> y ha participado un <strong>76%</strong>
+avia,Avià,7843,5922,134,215,El censo de <strong>Avià</strong> es <strong>19110</strong> y ha participado un <strong>74%</strong>
+avinyo,Avinyó,6836,4077,249,390,El censo de <strong>Avinyó</strong> es <strong>17168</strong> y ha participado un <strong>67%</strong>
+avinyonet-de-puigventos,Avinyonet de Puigventós,5577,3168,228,152,El censo de <strong>Avinyonet de Puigventós</strong> es <strong>12417</strong> y ha participado un <strong>73%</strong>
+avinyonet-del-penedes,Avinyonet del Penedès,8096,3750,270,391,El censo de <strong>Avinyonet del Penedès</strong> es <strong>17174</strong> y ha participado un <strong>73%</strong>
+badalona,Badalona,6885,3539,410,378,El censo de <strong>Badalona</strong> es <strong>15137</strong> y ha participado un <strong>74%</strong>
+badia-del-valles,Badia del Vallès,8395,5601,100,133,El censo de <strong>Badia del Vallès</strong> es <strong>19735</strong> y ha participado un <strong>72%</strong>
+baga,Bagà,9332,5170,224,256,El censo de <strong>Bagà</strong> es <strong>18081</strong> y ha participado un <strong>83%</strong>
+baix-pallars,Baix Pallars,5442,3165,126,477,El censo de <strong>Baix Pallars</strong> es <strong>14316</strong> y ha participado un <strong>64%</strong>
+balaguer,Balaguer,5052,5140,376,186,El censo de <strong>Balaguer</strong> es <strong>15882</strong> y ha participado un <strong>68%</strong>
+balenya,Balenyà,9177,4748,273,174,El censo de <strong>Balenyà</strong> es <strong>18265</strong> y ha participado un <strong>79%</strong>
+balsareny,Balsareny,9506,5777,391,305,El censo de <strong>Balsareny</strong> es <strong>21372</strong> y ha participado un <strong>75%</strong>
+banyeres-del-penedes,Banyeres del Penedès,6088,3760,259,493,El censo de <strong>Banyeres del Penedès</strong> es <strong>15511</strong> y ha participado un <strong>68%</strong>
+banyoles,Banyoles,5792,4094,156,247,El censo de <strong>Banyoles</strong> es <strong>15552</strong> y ha participado un <strong>66%</strong>
+barbens,Barbens,7544,3649,383,195,El censo de <strong>Barbens</strong> es <strong>15773</strong> y ha participado un <strong>75%</strong>
+barbera-de-la-conca,Barberà de la Conca,8037,4393,175,257,El censo de <strong>Barberà de la Conca</strong> es <strong>17211</strong> y ha participado un <strong>75%</strong>
+barbera-del-valles,Barberà del Vallès,6955,4370,206,342,El censo de <strong>Barberà del Vallès</strong> es <strong>15610</strong> y ha participado un <strong>76%</strong>
+barcelona,Barcelona,5169,3864,141,315,El censo de <strong>Barcelona</strong> es <strong>15054</strong> y ha participado un <strong>63%</strong>
+bascara,Bàscara,5261,5193,203,194,El censo de <strong>Bàscara</strong> es <strong>16824</strong> y ha participado un <strong>64%</strong>
+bassella,Bassella,5652,3448,196,147,El censo de <strong>Bassella</strong> es <strong>14880</strong> y ha participado un <strong>63%</strong>
+batea,Batea,5772,4613,447,204,El censo de <strong>Batea</strong> es <strong>14113</strong> y ha participado un <strong>78%</strong>
+bausen,Bausen,7188,5382,149,174,El censo de <strong>Bausen</strong> es <strong>17344</strong> y ha participado un <strong>74%</strong>
+begues,Begues,6165,4532,293,282,El censo de <strong>Begues</strong> es <strong>15066</strong> y ha participado un <strong>75%</strong>
+begur,Begur,8129,4121,132,288,El censo de <strong>Begur</strong> es <strong>17917</strong> y ha participado un <strong>71%</strong>
+belianes,Belianes,7865,3260,172,383,El censo de <strong>Belianes</strong> es <strong>15359</strong> y ha participado un <strong>76%</strong>
+bellaguarda,Bellaguarda,7330,3645,363,438,El censo de <strong>Bellaguarda</strong> es <strong>17659</strong> y ha participado un <strong>67%</strong>
+bellcaire-d-emporda,Bellcaire d'Empordà,7912,5712,158,479,El censo de <strong>Bellcaire d'Empordà</strong> es <strong>19970</strong> y ha participado un <strong>71%</strong>
+bellcaire-d-urgell,Bellcaire d'Urgell,6538,4170,191,235,El censo de <strong>Bellcaire d'Urgell</strong> es <strong>14415</strong> y ha participado un <strong>77%</strong>
+bell-lloc-d-urgell,Bell-lloc d'Urgell,8475,3003,147,251,El censo de <strong>Bell-lloc d'Urgell</strong> es <strong>15056</strong> y ha participado un <strong>79%</strong>
+bellmunt-del-priorat,Bellmunt del Priorat,6097,3516,309,113,El censo de <strong>Bellmunt del Priorat</strong> es <strong>14043</strong> y ha participado un <strong>71%</strong>
+bellmunt-d-urgell,Bellmunt d'Urgell,8402,4824,230,290,El censo de <strong>Bellmunt d'Urgell</strong> es <strong>18719</strong> y ha participado un <strong>73%</strong>
+bellprat,Bellprat,6342,3015,135,454,El censo de <strong>Bellprat</strong> es <strong>15420</strong> y ha participado un <strong>65%</strong>
+bellpuig,Bellpuig,9502,5485,489,101,El censo de <strong>Bellpuig</strong> es <strong>19837</strong> y ha participado un <strong>79%</strong>
+bellvei,Bellvei,5343,4823,124,307,El censo de <strong>Bellvei</strong> es <strong>15068</strong> y ha participado un <strong>70%</strong>
+bellver-de-cerdanya,Bellver de Cerdanya,7051,5060,408,206,El censo de <strong>Bellver de Cerdanya</strong> es <strong>16396</strong> y ha participado un <strong>78%</strong>
+bellvis,Bellvís,9340,5695,378,466,El censo de <strong>Bellvís</strong> es <strong>20935</strong> y ha participado un <strong>76%</strong>
+benavent-de-segria,Benavent de Segrià,5783,4221,209,226,El censo de <strong>Benavent de Segrià</strong> es <strong>13631</strong> y ha participado un <strong>77%</strong>
+benifallet,Benifallet,8645,3418,390,104,El censo de <strong>Benifallet</strong> es <strong>16819</strong> y ha participado un <strong>75%</strong>
+benissanet,Benissanet,9403,4492,131,463,El censo de <strong>Benissanet</strong> es <strong>20154</strong> y ha participado un <strong>72%</strong>
+berga,Berga,5540,3559,152,462,El censo de <strong>Berga</strong> es <strong>15469</strong> y ha participado un <strong>63%</strong>
+besalu,Besalú,5463,3189,449,141,El censo de <strong>Besalú</strong> es <strong>13277</strong> y ha participado un <strong>70%</strong>
+bescano,Bescanó,9069,5977,400,361,El censo de <strong>Bescanó</strong> es <strong>20341</strong> y ha participado un <strong>78%</strong>
+beuda,Beuda,7830,4742,477,454,El censo de <strong>Beuda</strong> es <strong>17455</strong> y ha participado un <strong>77%</strong>
+bigues-i-riells,Bigues i Riells,7232,5718,182,265,El censo de <strong>Bigues i Riells</strong> es <strong>17605</strong> y ha participado un <strong>76%</strong>
+biosca,Biosca,8730,5211,207,128,El censo de <strong>Biosca</strong> es <strong>18811</strong> y ha participado un <strong>76%</strong>
+biure,Biure,7468,4990,128,415,El censo de <strong>Biure</strong> es <strong>17744</strong> y ha participado un <strong>73%</strong>
+blancafort,Blancafort,6540,3987,263,246,El censo de <strong>Blancafort</strong> es <strong>15816</strong> y ha participado un <strong>70%</strong>
+blanes,Blanes,9958,5304,234,444,El censo de <strong>Blanes</strong> es <strong>21510</strong> y ha participado un <strong>74%</strong>
+boadella-i-les-escaules,Boadella i les Escaules,5417,4834,417,190,El censo de <strong>Boadella i les Escaules</strong> es <strong>16043</strong> y ha participado un <strong>68%</strong>
+bolvir,Bolvir,5224,4807,409,279,El censo de <strong>Bolvir</strong> es <strong>16182</strong> y ha participado un <strong>66%</strong>
+bonastre,Bonastre,6924,4228,315,490,El censo de <strong>Bonastre</strong> es <strong>16629</strong> y ha participado un <strong>72%</strong>
+bordils,Bordils,8647,3063,201,295,El censo de <strong>Bordils</strong> es <strong>15411</strong> y ha participado un <strong>79%</strong>
+borrassa,Borrassà,6967,5965,162,217,El censo de <strong>Borrassà</strong> es <strong>18335</strong> y ha participado un <strong>73%</strong>
+borreda,Borredà,6296,5222,113,253,El censo de <strong>Borredà</strong> es <strong>16120</strong> y ha participado un <strong>74%</strong>
+bossost,Bossòst,6382,3626,145,500,El censo de <strong>Bossòst</strong> es <strong>15613</strong> y ha participado un <strong>68%</strong>
+bot,Bot,9852,5220,365,399,El censo de <strong>Bot</strong> es <strong>19170</strong> y ha participado un <strong>83%</strong>
+botarell,Botarell,5879,5522,300,145,El censo de <strong>Botarell</strong> es <strong>17310</strong> y ha participado un <strong>68%</strong>
+bovera,Bovera,5943,3122,172,128,El censo de <strong>Bovera</strong> es <strong>12697</strong> y ha participado un <strong>74%</strong>
+brafim,Bràfim,7826,4194,495,316,El censo de <strong>Bràfim</strong> es <strong>18422</strong> y ha participado un <strong>70%</strong>
+breda,Breda,9236,5504,423,348,El censo de <strong>Breda</strong> es <strong>18987</strong> y ha participado un <strong>82%</strong>
+brunyola,Brunyola,6643,3796,114,130,El censo de <strong>Brunyola</strong> es <strong>16198</strong> y ha participado un <strong>66%</strong>
+cabaces,Cabacés,8635,4897,262,346,El censo de <strong>Cabacés</strong> es <strong>18245</strong> y ha participado un <strong>78%</strong>
+cabanabona,Cabanabona,5629,4584,211,269,El censo de <strong>Cabanabona</strong> es <strong>13730</strong> y ha participado un <strong>78%</strong>
+cabanelles,Cabanelles,9123,4181,242,203,El censo de <strong>Cabanelles</strong> es <strong>19674</strong> y ha participado un <strong>70%</strong>
+cabanes,Cabanes,6701,4511,318,335,El censo de <strong>Cabanes</strong> es <strong>17446</strong> y ha participado un <strong>68%</strong>
+cabo,Cabó,5211,3159,147,465,El censo de <strong>Cabó</strong> es <strong>14420</strong> y ha participado un <strong>62%</strong>
+cabra-del-camp,Cabra del Camp,6506,4022,475,122,El censo de <strong>Cabra del Camp</strong> es <strong>15523</strong> y ha participado un <strong>72%</strong>
+cabrera-d-anoia,Cabrera d'Anoia,7587,4437,274,224,El censo de <strong>Cabrera d'Anoia</strong> es <strong>17015</strong> y ha participado un <strong>74%</strong>
+cabrera-de-mar,Cabrera de Mar,5397,4822,283,131,El censo de <strong>Cabrera de Mar</strong> es <strong>15725</strong> y ha participado un <strong>68%</strong>
+cabrils,Cabrils,9158,4112,375,307,El censo de <strong>Cabrils</strong> es <strong>18470</strong> y ha participado un <strong>76%</strong>
+cadaques,Cadaqués,6769,3150,289,366,El censo de <strong>Cadaqués</strong> es <strong>14226</strong> y ha participado un <strong>74%</strong>
+calaf,Calaf,6184,3402,435,433,El censo de <strong>Calaf</strong> es <strong>15565</strong> y ha participado un <strong>67%</strong>
+calafell,Calafell,6394,3954,415,411,El censo de <strong>Calafell</strong> es <strong>14723</strong> y ha participado un <strong>76%</strong>
+calders,Calders,7044,3449,151,307,El censo de <strong>Calders</strong> es <strong>15807</strong> y ha participado un <strong>69%</strong>
+caldes-de-malavella,Caldes de Malavella,7515,4004,149,227,El censo de <strong>Caldes de Malavella</strong> es <strong>15090</strong> y ha participado un <strong>79%</strong>
+caldes-de-montbui,Caldes de Montbui,5381,5253,169,469,El censo de <strong>Caldes de Montbui</strong> es <strong>14890</strong> y ha participado un <strong>76%</strong>
+caldes-d-estrac,Caldes d'Estrac,6075,4222,239,337,El censo de <strong>Caldes d'Estrac</strong> es <strong>15462</strong> y ha participado un <strong>70%</strong>
+calella,Calella,7961,5383,430,245,El censo de <strong>Calella</strong> es <strong>18431</strong> y ha participado un <strong>76%</strong>
+calldetenes,Calldetenes,8688,4563,430,363,El censo de <strong>Calldetenes</strong> es <strong>18288</strong> y ha participado un <strong>77%</strong>
+callus,Callús,5868,4582,225,152,El censo de <strong>Callús</strong> es <strong>15723</strong> y ha participado un <strong>69%</strong>
+calonge,Calonge,7289,4396,177,223,El censo de <strong>Calonge</strong> es <strong>15179</strong> y ha participado un <strong>80%</strong>
+calonge-de-segarra,Calonge de Segarra,6772,5171,318,497,El censo de <strong>Calonge de Segarra</strong> es <strong>16418</strong> y ha participado un <strong>78%</strong>
+camarasa,Camarasa,5589,5822,431,384,El censo de <strong>Camarasa</strong> es <strong>15753</strong> y ha participado un <strong>78%</strong>
+camarles,Camarles,7537,4876,336,421,El censo de <strong>Camarles</strong> es <strong>17265</strong> y ha participado un <strong>76%</strong>
+cambrils,Cambrils,9127,3130,313,311,El censo de <strong>Cambrils</strong> es <strong>16979</strong> y ha participado un <strong>76%</strong>
+camos,Camós,9557,4061,177,260,El censo de <strong>Camós</strong> es <strong>18482</strong> y ha participado un <strong>76%</strong>
+campdevanol,Campdevànol,5955,5089,494,212,El censo de <strong>Campdevànol</strong> es <strong>16731</strong> y ha participado un <strong>70%</strong>
+campelles,Campelles,8034,5057,183,467,El censo de <strong>Campelles</strong> es <strong>17366</strong> y ha participado un <strong>79%</strong>
+campins,Campins,5190,3433,351,497,El censo de <strong>Campins</strong> es <strong>15262</strong> y ha participado un <strong>62%</strong>
+campllong,Campllong,8077,5970,442,117,El censo de <strong>Campllong</strong> es <strong>20351</strong> y ha participado un <strong>72%</strong>
+camprodon,Camprodon,7236,3375,279,320,El censo de <strong>Camprodon</strong> es <strong>14456</strong> y ha participado un <strong>78%</strong>
+canejan,Canejan,8791,4322,180,293,El censo de <strong>Canejan</strong> es <strong>19009</strong> y ha participado un <strong>71%</strong>
+canet-d-adri,Canet d'Adri,6068,5789,428,331,El censo de <strong>Canet d'Adri</strong> es <strong>16795</strong> y ha participado un <strong>75%</strong>
+canet-de-mar,Canet de Mar,7621,5426,257,319,El censo de <strong>Canet de Mar</strong> es <strong>18219</strong> y ha participado un <strong>75%</strong>
+canovelles,Canovelles,8639,5525,265,266,El censo de <strong>Canovelles</strong> es <strong>18476</strong> y ha participado un <strong>80%</strong>
+canoves-i-samalus,Cànoves i Samalús,8530,5097,299,204,El censo de <strong>Cànoves i Samalús</strong> es <strong>19738</strong> y ha participado un <strong>72%</strong>
+cantallops,Cantallops,7216,5125,380,272,El censo de <strong>Cantallops</strong> es <strong>16589</strong> y ha participado un <strong>78%</strong>
+canyelles,Canyelles,8446,4888,357,166,El censo de <strong>Canyelles</strong> es <strong>17364</strong> y ha participado un <strong>80%</strong>
+capafonts,Capafonts,5777,3754,314,362,El censo de <strong>Capafonts</strong> es <strong>13278</strong> y ha participado un <strong>77%</strong>
+capcanes,Capçanes,6046,4832,133,436,El censo de <strong>Capçanes</strong> es <strong>17165</strong> y ha participado un <strong>67%</strong>
+capellades,Capellades,9508,5189,375,223,El censo de <strong>Capellades</strong> es <strong>18893</strong> y ha participado un <strong>81%</strong>
+capmany,Capmany,7593,5317,157,232,El censo de <strong>Capmany</strong> es <strong>19085</strong> y ha participado un <strong>70%</strong>
+capolat,Capolat,6519,4544,467,276,El censo de <strong>Capolat</strong> es <strong>15924</strong> y ha participado un <strong>74%</strong>
+cardedeu,Cardedeu,6072,5954,247,411,El censo de <strong>Cardedeu</strong> es <strong>17870</strong> y ha participado un <strong>71%</strong>
+cardona,Cardona,5061,4856,241,482,El censo de <strong>Cardona</strong> es <strong>14935</strong> y ha participado un <strong>71%</strong>
+carme,Carme,8851,3314,391,370,El censo de <strong>Carme</strong> es <strong>18674</strong> y ha participado un <strong>69%</strong>
+caseres,Caseres,9879,5704,356,410,El censo de <strong>Caseres</strong> es <strong>22101</strong> y ha participado un <strong>74%</strong>
+cassa-de-la-selva,Cassà de la Selva,5787,3473,296,338,El censo de <strong>Cassà de la Selva</strong> es <strong>15800</strong> y ha participado un <strong>63%</strong>
+casserres,Casserres,8594,4666,102,494,El censo de <strong>Casserres</strong> es <strong>17635</strong> y ha participado un <strong>79%</strong>
+castell-de-l-areny,Castell de l'Areny,9207,3799,380,127,El censo de <strong>Castell de l'Areny</strong> es <strong>18132</strong> y ha participado un <strong>75%</strong>
+castell-de-mur,Castell de Mur,5893,3803,166,376,El censo de <strong>Castell de Mur</strong> es <strong>14382</strong> y ha participado un <strong>71%</strong>
+castellar-de-la-ribera,Castellar de la Ribera,7895,5898,148,140,El censo de <strong>Castellar de la Ribera</strong> es <strong>17838</strong> y ha participado un <strong>79%</strong>
+castellar-de-n-hug,Castellar de n'Hug,9138,4134,257,375,El censo de <strong>Castellar de n'Hug</strong> es <strong>16944</strong> y ha participado un <strong>82%</strong>
+castellar-del-riu,Castellar del Riu,8302,5155,292,427,El censo de <strong>Castellar del Riu</strong> es <strong>17676</strong> y ha participado un <strong>80%</strong>
+castellar-del-valles,Castellar del Vallès,9688,4160,277,391,El censo de <strong>Castellar del Vallès</strong> es <strong>18164</strong> y ha participado un <strong>80%</strong>
+castellbell-i-el-vilar,Castellbell i el Vilar,6622,5469,439,178,El censo de <strong>Castellbell i el Vilar</strong> es <strong>18235</strong> y ha participado un <strong>70%</strong>
+castellbisbal,Castellbisbal,5053,3218,233,320,El censo de <strong>Castellbisbal</strong> es <strong>14660</strong> y ha participado un <strong>60%</strong>
+castellcir,Castellcir,7445,3910,449,457,El censo de <strong>Castellcir</strong> es <strong>18211</strong> y ha participado un <strong>67%</strong>
+castelldans,Castelldans,6417,5646,291,432,El censo de <strong>Castelldans</strong> es <strong>16162</strong> y ha participado un <strong>79%</strong>
+castelldefels,Castelldefels,6112,3051,366,302,El censo de <strong>Castelldefels</strong> es <strong>12964</strong> y ha participado un <strong>76%</strong>
+castellet-i-la-gornal,Castellet i la Gornal,9097,3868,342,421,El censo de <strong>Castellet i la Gornal</strong> es <strong>18264</strong> y ha participado un <strong>75%</strong>
+castellfollit-de-la-roca,Castellfollit de la Roca,5614,4087,404,300,El censo de <strong>Castellfollit de la Roca</strong> es <strong>14286</strong> y ha participado un <strong>73%</strong>
+castellfollit-de-riubregos,Castellfollit de Riubregós,9522,5045,107,317,El censo de <strong>Castellfollit de Riubregós</strong> es <strong>19739</strong> y ha participado un <strong>76%</strong>
+castellfollit-del-boix,Castellfollit del Boix,6819,5227,383,212,El censo de <strong>Castellfollit del Boix</strong> es <strong>18433</strong> y ha participado un <strong>69%</strong>
+castellgali,Castellgalí,9583,3451,452,307,El censo de <strong>Castellgalí</strong> es <strong>18642</strong> y ha participado un <strong>74%</strong>
+castellnou-de-bages,Castellnou de Bages,8765,5709,411,105,El censo de <strong>Castellnou de Bages</strong> es <strong>19869</strong> y ha participado un <strong>75%</strong>
+castellnou-de-seana,Castellnou de Seana,8495,3720,487,177,El censo de <strong>Castellnou de Seana</strong> es <strong>18350</strong> y ha participado un <strong>70%</strong>
+castello-de-farfanya,Castelló de Farfanya,5589,5386,119,376,El censo de <strong>Castelló de Farfanya</strong> es <strong>15756</strong> y ha participado un <strong>73%</strong>
+castello-d-empuries,Castelló d'Empúries,7050,4817,179,396,El censo de <strong>Castelló d'Empúries</strong> es <strong>16140</strong> y ha participado un <strong>77%</strong>
+castelloli,Castellolí,6544,5342,363,225,El censo de <strong>Castellolí</strong> es <strong>17285</strong> y ha participado un <strong>72%</strong>
+castell-platja-d-aro,Castell-Platja d'Aro,7108,3825,154,166,El censo de <strong>Castell-Platja d'Aro</strong> es <strong>16964</strong> y ha participado un <strong>66%</strong>
+castellsera,Castellserà,7783,3335,462,267,El censo de <strong>Castellserà</strong> es <strong>17104</strong> y ha participado un <strong>69%</strong>
+castelltercol,Castellterçol,6784,3659,149,188,El censo de <strong>Castellterçol</strong> es <strong>15129</strong> y ha participado un <strong>71%</strong>
+castellvell-del-camp,Castellvell del Camp,7714,3513,113,276,El censo de <strong>Castellvell del Camp</strong> es <strong>17092</strong> y ha participado un <strong>68%</strong>
+castellvi-de-la-marca,Castellví de la Marca,5547,3045,389,256,El censo de <strong>Castellví de la Marca</strong> es <strong>13206</strong> y ha participado un <strong>70%</strong>
+castellvi-de-rosanes,Castellví de Rosanes,5956,5168,370,427,El censo de <strong>Castellví de Rosanes</strong> es <strong>16372</strong> y ha participado un <strong>73%</strong>
+cava,Cava,9958,3367,480,205,El censo de <strong>Cava</strong> es <strong>18185</strong> y ha participado un <strong>77%</strong>
+celra,Celrà,7525,4665,389,128,El censo de <strong>Celrà</strong> es <strong>16738</strong> y ha participado un <strong>76%</strong>
+centelles,Centelles,8897,4185,496,313,El censo de <strong>Centelles</strong> es <strong>19156</strong> y ha participado un <strong>73%</strong>
+cercs,Cercs,5076,5972,484,224,El censo de <strong>Cercs</strong> es <strong>16259</strong> y ha participado un <strong>72%</strong>
+cerdanyola-del-valles,Cerdanyola del Vallès,8982,3745,318,271,El censo de <strong>Cerdanyola del Vallès</strong> es <strong>17415</strong> y ha participado un <strong>76%</strong>
+cervello,Cervelló,8107,3481,326,347,El censo de <strong>Cervelló</strong> es <strong>18001</strong> y ha participado un <strong>68%</strong>
+cervera,Cervera,5417,4063,160,361,El censo de <strong>Cervera</strong> es <strong>15479</strong> y ha participado un <strong>65%</strong>
+cervia-de-les-garrigues,Cervià de les Garrigues,7267,4652,265,227,El censo de <strong>Cervià de les Garrigues</strong> es <strong>17765</strong> y ha participado un <strong>70%</strong>
+cervia-de-ter,Cervià de Ter,5759,3136,354,251,El censo de <strong>Cervià de Ter</strong> es <strong>15012</strong> y ha participado un <strong>63%</strong>
+cistella,Cistella,9504,5774,235,202,El censo de <strong>Cistella</strong> es <strong>20567</strong> y ha participado un <strong>76%</strong>
+ciutadilla,Ciutadilla,8799,3116,161,425,El censo de <strong>Ciutadilla</strong> es <strong>17218</strong> y ha participado un <strong>73%</strong>
+clariana-de-cardener,Clariana de Cardener,7150,5109,142,497,El censo de <strong>Clariana de Cardener</strong> es <strong>18560</strong> y ha participado un <strong>69%</strong>
+colera,Colera,9404,4042,456,294,El censo de <strong>Colera</strong> es <strong>17233</strong> y ha participado un <strong>82%</strong>
+coll-de-nargo,Coll de Nargó,8280,4323,395,223,El censo de <strong>Coll de Nargó</strong> es <strong>16309</strong> y ha participado un <strong>81%</strong>
+collbato,Collbató,8089,3249,381,261,El censo de <strong>Collbató</strong> es <strong>17233</strong> y ha participado un <strong>70%</strong>
+colldejou,Colldejou,8687,5850,492,389,El censo de <strong>Colldejou</strong> es <strong>20689</strong> y ha participado un <strong>75%</strong>
+collsuspina,Collsuspina,8021,3915,261,439,El censo de <strong>Collsuspina</strong> es <strong>16388</strong> y ha participado un <strong>77%</strong>
+colomers,Colomers,6614,5754,225,367,El censo de <strong>Colomers</strong> es <strong>17903</strong> y ha participado un <strong>72%</strong>
+conca-de-dalt,Conca de Dalt,8094,4699,178,289,El censo de <strong>Conca de Dalt</strong> es <strong>19092</strong> y ha participado un <strong>69%</strong>
+conesa,Conesa,5491,4906,190,150,El censo de <strong>Conesa</strong> es <strong>14221</strong> y ha participado un <strong>76%</strong>
+constanti,Constantí,9733,3597,175,155,El censo de <strong>Constantí</strong> es <strong>19263</strong> y ha participado un <strong>71%</strong>
+copons,Copons,7022,3049,203,298,El censo de <strong>Copons</strong> es <strong>13725</strong> y ha participado un <strong>77%</strong>
+corbera-de-llobregat,Corbera de Llobregat,9676,3744,225,382,El censo de <strong>Corbera de Llobregat</strong> es <strong>17446</strong> y ha participado un <strong>80%</strong>
+corbera-d-ebre,Corbera d'Ebre,9128,3416,445,477,El censo de <strong>Corbera d'Ebre</strong> es <strong>18918</strong> y ha participado un <strong>71%</strong>
+corbins,Corbins,6835,5107,376,428,El censo de <strong>Corbins</strong> es <strong>15952</strong> y ha participado un <strong>80%</strong>
+corca,Corçà,5066,5984,436,105,El censo de <strong>Corçà</strong> es <strong>16665</strong> y ha participado un <strong>70%</strong>
+cornella-de-llobregat,Cornellà de Llobregat,6997,4979,477,377,El censo de <strong>Cornellà de Llobregat</strong> es <strong>17705</strong> y ha participado un <strong>72%</strong>
+cornella-del-terri,Cornellà del Terri,6853,4457,386,365,El censo de <strong>Cornellà del Terri</strong> es <strong>16160</strong> y ha participado un <strong>75%</strong>
+cornudella-de-montsant,Cornudella de Montsant,6532,4040,172,359,El censo de <strong>Cornudella de Montsant</strong> es <strong>15219</strong> y ha participado un <strong>73%</strong>
+creixell,Creixell,6479,4346,368,325,El censo de <strong>Creixell</strong> es <strong>15658</strong> y ha participado un <strong>74%</strong>
+crespia,Crespià,6374,3606,107,293,El censo de <strong>Crespià</strong> es <strong>13498</strong> y ha participado un <strong>77%</strong>
+cruilles-monells-i-sant-sadurni-de-l-heura,Cruïlles, Monells i Sant Sadurní de l'Heura,5489,5475,101,143,El censo de <strong>Cruïlles, Monells i Sant Sadurní de l'Heura</strong> es <strong>16874</strong> y ha participado un <strong>66%</strong>
+cubelles,Cubelles,6142,4033,111,400,El censo de <strong>Cubelles</strong> es <strong>14467</strong> y ha participado un <strong>74%</strong>
+cubells,Cubells,6942,3693,410,292,El censo de <strong>Cubells</strong> es <strong>15568</strong> y ha participado un <strong>73%</strong>
+cunit,Cunit,6244,3980,124,241,El censo de <strong>Cunit</strong> es <strong>14437</strong> y ha participado un <strong>73%</strong>
+darnius,Darnius,6070,4950,100,264,El censo de <strong>Darnius</strong> es <strong>15998</strong> y ha participado un <strong>71%</strong>
+das,Das,7696,3701,289,351,El censo de <strong>Das</strong> es <strong>15774</strong> y ha participado un <strong>76%</strong>
+deltebre,Deltebre,7544,4165,301,278,El censo de <strong>Deltebre</strong> es <strong>16125</strong> y ha participado un <strong>76%</strong>
+dosrius,Dosrius,7235,5676,387,233,El censo de <strong>Dosrius</strong> es <strong>18493</strong> y ha participado un <strong>73%</strong>
+duesaigues,Duesaigües,6055,4359,463,320,El censo de <strong>Duesaigües</strong> es <strong>16250</strong> y ha participado un <strong>69%</strong>
+el-bruc,El Bruc,9457,3864,259,429,El censo de <strong>El Bruc</strong> es <strong>19158</strong> y ha participado un <strong>73%</strong>
+el-brull,El Brull,6354,5009,122,430,El censo de <strong>El Brull</strong> es <strong>15693</strong> y ha participado un <strong>76%</strong>
+el-catllar,El Catllar,8491,4942,310,182,El censo de <strong>El Catllar</strong> es <strong>19596</strong> y ha participado un <strong>71%</strong>
+el-cogul,El Cogul,7012,3488,247,398,El censo de <strong>El Cogul</strong> es <strong>16650</strong> y ha participado un <strong>67%</strong>
+el-far-d-emporda,El Far d'Empordà,6923,3833,304,175,El censo de <strong>El Far d'Empordà</strong> es <strong>15098</strong> y ha participado un <strong>74%</strong>
+el-lloar,El Lloar,6872,4594,190,371,El censo de <strong>El Lloar</strong> es <strong>16399</strong> y ha participado un <strong>73%</strong>
+el-masnou,El Masnou,5862,5914,423,424,El censo de <strong>El Masnou</strong> es <strong>18416</strong> y ha participado un <strong>69%</strong>
+el-masroig,El Masroig,7373,5792,344,332,El censo de <strong>El Masroig</strong> es <strong>18459</strong> y ha participado un <strong>75%</strong>
+el-mila,El Milà,5006,3493,159,363,El censo de <strong>El Milà</strong> es <strong>12898</strong> y ha participado un <strong>70%</strong>
+el-molar,El Molar,7813,5465,422,103,El censo de <strong>El Molar</strong> es <strong>17578</strong> y ha participado un <strong>79%</strong>
+el-montmell,El Montmell,8492,3263,442,300,El censo de <strong>El Montmell</strong> es <strong>16525</strong> y ha participado un <strong>76%</strong>
+el-morell,El Morell,7783,5581,366,162,El censo de <strong>El Morell</strong> es <strong>17468</strong> y ha participado un <strong>80%</strong>
+el-palau-d-anglesola,El Palau d'Anglesola,6312,5158,350,372,El censo de <strong>El Palau d'Anglesola</strong> es <strong>16142</strong> y ha participado un <strong>76%</strong>
+el-papiol,El Papiol,9583,5258,228,432,El censo de <strong>El Papiol</strong> es <strong>19032</strong> y ha participado un <strong>81%</strong>
+el-perello,El Perelló,8526,4361,116,338,El censo de <strong>El Perelló</strong> es <strong>17581</strong> y ha participado un <strong>76%</strong>
+el-pinell-de-brai,El Pinell de Brai,7272,5945,380,416,El censo de <strong>El Pinell de Brai</strong> es <strong>19672</strong> y ha participado un <strong>71%</strong>
+el-pla-de-santa-maria,El Pla de Santa Maria,5091,5262,459,491,El censo de <strong>El Pla de Santa Maria</strong> es <strong>15226</strong> y ha participado un <strong>74%</strong>
+el-pla-del-penedes,El Pla del Penedès,5576,3863,270,347,El censo de <strong>El Pla del Penedès</strong> es <strong>15950</strong> y ha participado un <strong>63%</strong>
+el-poal,El Poal,6432,3257,112,401,El censo de <strong>El Poal</strong> es <strong>14812</strong> y ha participado un <strong>69%</strong>
+el-pont-d-armentera,El Pont d'Armentera,8431,4500,386,276,El censo de <strong>El Pont d'Armentera</strong> es <strong>18462</strong> y ha participado un <strong>74%</strong>
+el-pont-de-bar,El Pont de Bar,5405,3796,392,171,El censo de <strong>El Pont de Bar</strong> es <strong>12765</strong> y ha participado un <strong>76%</strong>
+el-pont-de-suert,El Pont de Suert,8649,4531,179,394,El censo de <strong>El Pont de Suert</strong> es <strong>19739</strong> y ha participado un <strong>70%</strong>
+el-pont-de-vilomara-i-rocafort,El Pont de Vilomara i Rocafort,5429,4245,446,490,El censo de <strong>El Pont de Vilomara i Rocafort</strong> es <strong>15292</strong> y ha participado un <strong>69%</strong>
+el-port-de-la-selva,El Port de la Selva,7099,3050,242,215,El censo de <strong>El Port de la Selva</strong> es <strong>16555</strong> y ha participado un <strong>64%</strong>
+el-prat-de-llobregat,El Prat de Llobregat,7769,5475,222,303,El censo de <strong>El Prat de Llobregat</strong> es <strong>19210</strong> y ha participado un <strong>72%</strong>
+el-rourell,El Rourell,6563,4626,161,170,El censo de <strong>El Rourell</strong> es <strong>16537</strong> y ha participado un <strong>70%</strong>
+el-soleras,El Soleràs,9988,5038,149,279,El censo de <strong>El Soleràs</strong> es <strong>18704</strong> y ha participado un <strong>83%</strong>
+el-vendrell,El Vendrell,7398,3284,418,235,El censo de <strong>El Vendrell</strong> es <strong>15770</strong> y ha participado un <strong>72%</strong>
+el-vilosell,El Vilosell,6425,3664,237,448,El censo de <strong>El Vilosell</strong> es <strong>15590</strong> y ha participado un <strong>69%</strong>
+els-alamus,Els Alamús,9649,3634,244,148,El censo de <strong>Els Alamús</strong> es <strong>17136</strong> y ha participado un <strong>80%</strong>
+els-garidells,Els Garidells,5918,4458,147,101,El censo de <strong>Els Garidells</strong> es <strong>13661</strong> y ha participado un <strong>78%</strong>
+els-guiamets,Els Guiamets,7841,3265,495,482,El censo de <strong>Els Guiamets</strong> es <strong>17317</strong> y ha participado un <strong>70%</strong>
+els-hostalets-de-pierola,Els Hostalets de Pierola,9002,3207,272,239,El censo de <strong>Els Hostalets de Pierola</strong> es <strong>16692</strong> y ha participado un <strong>76%</strong>
+els-omellons,Els Omellons,7873,5645,172,269,El censo de <strong>Els Omellons</strong> es <strong>18166</strong> y ha participado un <strong>77%</strong>
+els-omells-de-na-gaia,Els Omells de na Gaia,7299,5991,427,122,El censo de <strong>Els Omells de na Gaia</strong> es <strong>16904</strong> y ha participado un <strong>82%</strong>
+els-pallaresos,Els Pallaresos,7783,5531,386,392,El censo de <strong>Els Pallaresos</strong> es <strong>19489</strong> y ha participado un <strong>72%</strong>
+els-plans-de-sio,Els Plans de Sió,7199,4151,286,273,El censo de <strong>Els Plans de Sió</strong> es <strong>17650</strong> y ha participado un <strong>67%</strong>
+els-prats-de-rei,Els Prats de Rei,5468,3328,380,326,El censo de <strong>Els Prats de Rei</strong> es <strong>12839</strong> y ha participado un <strong>74%</strong>
+els-torms,Els Torms,9315,5283,357,153,El censo de <strong>Els Torms</strong> es <strong>20680</strong> y ha participado un <strong>73%</strong>
+es-bordes,Es Bòrdes,7715,3003,434,157,El censo de <strong>Es Bòrdes</strong> es <strong>16112</strong> y ha participado un <strong>70%</strong>
+esparreguera,Esparreguera,8652,4090,105,324,El censo de <strong>Esparreguera</strong> es <strong>18301</strong> y ha participado un <strong>72%</strong>
+espinelves,Espinelves,8102,3907,235,178,El censo de <strong>Espinelves</strong> es <strong>15845</strong> y ha participado un <strong>78%</strong>
+esplugues-de-llobregat,Esplugues de Llobregat,7069,5861,141,170,El censo de <strong>Esplugues de Llobregat</strong> es <strong>18064</strong> y ha participado un <strong>73%</strong>
+espolla,Espolla,8530,4164,173,289,El censo de <strong>Espolla</strong> es <strong>18548</strong> y ha participado un <strong>71%</strong>
+esponella,Esponellà,9613,4586,404,331,El censo de <strong>Esponellà</strong> es <strong>18871</strong> y ha participado un <strong>79%</strong>
+espot,Espot,5813,4438,498,346,El censo de <strong>Espot</strong> es <strong>15855</strong> y ha participado un <strong>70%</strong>
+estamariu,Estamariu,5414,5120,458,119,El censo de <strong>Estamariu</strong> es <strong>14405</strong> y ha participado un <strong>77%</strong>
+estaras,Estaràs,5624,4720,205,113,El censo de <strong>Estaràs</strong> es <strong>15094</strong> y ha participado un <strong>71%</strong>
+esterri-d-aneu,Esterri d'Àneu,9558,5199,468,259,El censo de <strong>Esterri d'Àneu</strong> es <strong>20784</strong> y ha participado un <strong>74%</strong>
+esterri-de-cardos,Esterri de Cardós,9574,4736,261,360,El censo de <strong>Esterri de Cardós</strong> es <strong>20894</strong> y ha participado un <strong>71%</strong>
+falset,Falset,7539,5795,100,346,El censo de <strong>Falset</strong> es <strong>18214</strong> y ha participado un <strong>76%</strong>
+farrera,Farrera,9747,4289,313,444,El censo de <strong>Farrera</strong> es <strong>19273</strong> y ha participado un <strong>77%</strong>
+figaro-montmany,Figaró-Montmany,9854,5715,465,198,El censo de <strong>Figaró-Montmany</strong> es <strong>21275</strong> y ha participado un <strong>76%</strong>
+figols,Fígols,6697,4677,211,384,El censo de <strong>Fígols</strong> es <strong>15313</strong> y ha participado un <strong>78%</strong>
+figols-i-alinya,Fígols i Alinyà,9807,3301,311,317,El censo de <strong>Fígols i Alinyà</strong> es <strong>18905</strong> y ha participado un <strong>73%</strong>
+figueres,Figueres,9230,4405,328,447,El censo de <strong>Figueres</strong> es <strong>19471</strong> y ha participado un <strong>74%</strong>
+figuerola-del-camp,Figuerola del Camp,8736,4817,443,390,El censo de <strong>Figuerola del Camp</strong> es <strong>18927</strong> y ha participado un <strong>76%</strong>
+flaca,Flaçà,9225,4234,122,246,El censo de <strong>Flaçà</strong> es <strong>17585</strong> y ha participado un <strong>79%</strong>
+flix,Flix,6679,5770,144,371,El censo de <strong>Flix</strong> es <strong>18365</strong> y ha participado un <strong>71%</strong>
+fogars-de-la-selva,Fogars de la Selva,8421,5760,412,265,El censo de <strong>Fogars de la Selva</strong> es <strong>18754</strong> y ha participado un <strong>79%</strong>
+fogars-de-montclus,Fogars de Montclús,7998,4291,185,286,El censo de <strong>Fogars de Montclús</strong> es <strong>16234</strong> y ha participado un <strong>79%</strong>
+foixa,Foixà,5147,5386,348,135,El censo de <strong>Foixà</strong> es <strong>14923</strong> y ha participado un <strong>74%</strong>
+folgueroles,Folgueroles,7755,5652,217,452,El censo de <strong>Folgueroles</strong> es <strong>18389</strong> y ha participado un <strong>77%</strong>
+fondarella,Fondarella,8269,5560,222,230,El censo de <strong>Fondarella</strong> es <strong>19091</strong> y ha participado un <strong>75%</strong>
+fonollosa,Fonollosa,7802,3773,450,380,El censo de <strong>Fonollosa</strong> es <strong>17906</strong> y ha participado un <strong>69%</strong>
+fontanals-de-cerdanya,Fontanals de Cerdanya,9288,5944,151,375,El censo de <strong>Fontanals de Cerdanya</strong> es <strong>19781</strong> y ha participado un <strong>80%</strong>
+fontanilles,Fontanilles,8749,5957,409,326,El censo de <strong>Fontanilles</strong> es <strong>18468</strong> y ha participado un <strong>84%</strong>
+fontcoberta,Fontcoberta,7248,3238,291,343,El censo de <strong>Fontcoberta</strong> es <strong>14625</strong> y ha participado un <strong>76%</strong>
+font-rubi,Font-rubí,8371,5937,179,124,El censo de <strong>Font-rubí</strong> es <strong>20353</strong> y ha participado un <strong>72%</strong>
+foradada,Foradada,9476,4178,292,334,El censo de <strong>Foradada</strong> es <strong>19331</strong> y ha participado un <strong>74%</strong>
+forallac,Forallac,5705,3826,148,256,El censo de <strong>Forallac</strong> es <strong>13671</strong> y ha participado un <strong>73%</strong>
+fores,Forès,5050,4281,252,486,El censo de <strong>Forès</strong> es <strong>14578</strong> y ha participado un <strong>69%</strong>
+fornells-de-la-selva,Fornells de la Selva,6369,4275,470,475,El censo de <strong>Fornells de la Selva</strong> es <strong>17221</strong> y ha participado un <strong>67%</strong>
+fortia,Fortià,9627,5710,360,193,El censo de <strong>Fortià</strong> es <strong>19424</strong> y ha participado un <strong>82%</strong>
+freginals,Freginals,7309,3092,469,341,El censo de <strong>Freginals</strong> es <strong>14854</strong> y ha participado un <strong>75%</strong>
+fulleda,Fulleda,7591,3164,439,483,El censo de <strong>Fulleda</strong> es <strong>15958</strong> y ha participado un <strong>73%</strong>
+gaia,Gaià,6224,4014,302,357,El censo de <strong>Gaià</strong> es <strong>16837</strong> y ha participado un <strong>65%</strong>
+gallifa,Gallifa,7856,4700,231,331,El censo de <strong>Gallifa</strong> es <strong>18144</strong> y ha participado un <strong>72%</strong>
+gandesa,Gandesa,6293,3066,130,406,El censo de <strong>Gandesa</strong> es <strong>13276</strong> y ha participado un <strong>75%</strong>
+garcia,Garcia,7520,4514,273,348,El censo de <strong>Garcia</strong> es <strong>18372</strong> y ha participado un <strong>69%</strong>
+garrigas,Garrigàs,7421,3834,335,309,El censo de <strong>Garrigàs</strong> es <strong>14940</strong> y ha participado un <strong>80%</strong>
+garrigoles,Garrigoles,8618,3409,339,309,El censo de <strong>Garrigoles</strong> es <strong>18407</strong> y ha participado un <strong>69%</strong>
+garriguella,Garriguella,8094,4572,328,484,El censo de <strong>Garriguella</strong> es <strong>17391</strong> y ha participado un <strong>77%</strong>
+gava,Gavà,8319,5978,265,378,El censo de <strong>Gavà</strong> es <strong>18967</strong> y ha participado un <strong>79%</strong>
+gavet-de-la-conca,Gavet de la Conca,9933,5714,478,183,El censo de <strong>Gavet de la Conca</strong> es <strong>20980</strong> y ha participado un <strong>78%</strong>
+gelida,Gelida,8984,4587,239,349,El censo de <strong>Gelida</strong> es <strong>18388</strong> y ha participado un <strong>77%</strong>
+ger,Ger,7860,5236,461,225,El censo de <strong>Ger</strong> es <strong>17355</strong> y ha participado un <strong>79%</strong>
+gimenells-i-el-pla-de-la-font,Gimenells i el Pla de la Font,8748,4299,195,487,El censo de <strong>Gimenells i el Pla de la Font</strong> es <strong>17453</strong> y ha participado un <strong>79%</strong>
+ginestar,Ginestar,7345,5688,412,175,El censo de <strong>Ginestar</strong> es <strong>18647</strong> y ha participado un <strong>73%</strong>
+girona,Girona,7052,4048,164,188,El censo de <strong>Girona</strong> es <strong>15210</strong> y ha participado un <strong>75%</strong>
+gironella,Gironella,8915,5440,422,257,El censo de <strong>Gironella</strong> es <strong>18568</strong> y ha participado un <strong>81%</strong>
+gisclareny,Gisclareny,8102,3375,107,457,El censo de <strong>Gisclareny</strong> es <strong>16059</strong> y ha participado un <strong>75%</strong>
+godall,Godall,7087,5268,107,242,El censo de <strong>Godall</strong> es <strong>18300</strong> y ha participado un <strong>69%</strong>
+golmes,Golmés,9533,5432,399,142,El censo de <strong>Golmés</strong> es <strong>19896</strong> y ha participado un <strong>78%</strong>
+gombren,Gombrèn,9433,3384,274,111,El censo de <strong>Gombrèn</strong> es <strong>17812</strong> y ha participado un <strong>74%</strong>
+gosol,Gósol,6004,3288,158,263,El censo de <strong>Gósol</strong> es <strong>12840</strong> y ha participado un <strong>76%</strong>
+granera,Granera,9505,3117,469,149,El censo de <strong>Granera</strong> es <strong>19155</strong> y ha participado un <strong>69%</strong>
+granollers,Granollers,7077,3276,500,391,El censo de <strong>Granollers</strong> es <strong>16020</strong> y ha participado un <strong>70%</strong>
+granyanella,Granyanella,5792,3336,150,398,El censo de <strong>Granyanella</strong> es <strong>13066</strong> y ha participado un <strong>74%</strong>
+granyena-de-les-garrigues,Granyena de les Garrigues,8536,4060,375,105,El censo de <strong>Granyena de les Garrigues</strong> es <strong>18877</strong> y ha participado un <strong>69%</strong>
+granyena-de-segarra,Granyena de Segarra,9440,3523,470,463,El censo de <strong>Granyena de Segarra</strong> es <strong>18797</strong> y ha participado un <strong>74%</strong>
+gratallops,Gratallops,9932,4178,393,326,El censo de <strong>Gratallops</strong> es <strong>18189</strong> y ha participado un <strong>82%</strong>
+gualba,Gualba,9715,5810,113,334,El censo de <strong>Gualba</strong> es <strong>21951</strong> y ha participado un <strong>73%</strong>
+gualta,Gualta,9520,5957,401,365,El censo de <strong>Gualta</strong> es <strong>21510</strong> y ha participado un <strong>76%</strong>
+guardiola-de-bergueda,Guardiola de Berguedà,8502,4674,375,108,El censo de <strong>Guardiola de Berguedà</strong> es <strong>18843</strong> y ha participado un <strong>72%</strong>
+guils-de-cerdanya,Guils de Cerdanya,9185,3188,288,246,El censo de <strong>Guils de Cerdanya</strong> es <strong>18448</strong> y ha participado un <strong>70%</strong>
+guimera,Guimerà,8671,5884,409,351,El censo de <strong>Guimerà</strong> es <strong>19370</strong> y ha participado un <strong>79%</strong>
+guissona,Guissona,9824,3585,344,190,El censo de <strong>Guissona</strong> es <strong>18097</strong> y ha participado un <strong>77%</strong>
+guixers,Guixers,8194,4432,276,493,El censo de <strong>Guixers</strong> es <strong>16711</strong> y ha participado un <strong>80%</strong>
+gurb,Gurb,5905,3859,414,458,El censo de <strong>Gurb</strong> es <strong>14876</strong> y ha participado un <strong>71%</strong>
+horta-de-sant-joan,Horta de Sant Joan,7263,5588,340,337,El censo de <strong>Horta de Sant Joan</strong> es <strong>19425</strong> y ha participado un <strong>70%</strong>
+hostalric,Hostalric,8760,5243,175,327,El censo de <strong>Hostalric</strong> es <strong>20407</strong> y ha participado un <strong>71%</strong>
+igualada,Igualada,6715,5798,213,323,El censo de <strong>Igualada</strong> es <strong>17984</strong> y ha participado un <strong>73%</strong>
+isona-i-conca-della,Isona i Conca Dellà,9101,3911,145,470,El censo de <strong>Isona i Conca Dellà</strong> es <strong>18936</strong> y ha participado un <strong>72%</strong>
+isovol,Isòvol,9471,3602,409,150,El censo de <strong>Isòvol</strong> es <strong>17299</strong> y ha participado un <strong>79%</strong>
+ivars-de-noguera,Ivars de Noguera,5817,3735,113,321,El censo de <strong>Ivars de Noguera</strong> es <strong>14694</strong> y ha participado un <strong>68%</strong>
+ivars-d-urgell,Ivars d'Urgell,9066,5003,279,290,El censo de <strong>Ivars d'Urgell</strong> es <strong>18190</strong> y ha participado un <strong>80%</strong>
+ivorra,Ivorra,8178,5614,173,169,El censo de <strong>Ivorra</strong> es <strong>18747</strong> y ha participado un <strong>75%</strong>
+jafre,Jafre,6188,4638,275,224,El censo de <strong>Jafre</strong> es <strong>14385</strong> y ha participado un <strong>79%</strong>
+jorba,Jorba,6270,3381,161,450,El censo de <strong>Jorba</strong> es <strong>13435</strong> y ha participado un <strong>76%</strong>
+josa-i-tuixen,Josa i Tuixén,9958,3341,230,464,El censo de <strong>Josa i Tuixén</strong> es <strong>18089</strong> y ha participado un <strong>77%</strong>
+juia,Juià,6736,3029,370,235,El censo de <strong>Juià</strong> es <strong>13923</strong> y ha participado un <strong>74%</strong>
+juncosa,Juncosa,6550,4349,358,173,El censo de <strong>Juncosa</strong> es <strong>14970</strong> y ha participado un <strong>76%</strong>
+juneda,Juneda,9869,3556,225,106,El censo de <strong>Juneda</strong> es <strong>18020</strong> y ha participado un <strong>76%</strong>
+la-baronia-de-rialb,La Baronia de Rialb,9263,3522,364,251,El censo de <strong>La Baronia de Rialb</strong> es <strong>19227</strong> y ha participado un <strong>70%</strong>
+la-bisbal-de-falset,La Bisbal de Falset,6712,3223,159,223,El censo de <strong>La Bisbal de Falset</strong> es <strong>14221</strong> y ha participado un <strong>73%</strong>
+la-bisbal-del-penedes,La Bisbal del Penedès,9331,5307,105,310,El censo de <strong>La Bisbal del Penedès</strong> es <strong>18229</strong> y ha participado un <strong>83%</strong>
+la-bisbal-d-emporda,La Bisbal d'Empordà,8584,5642,337,360,El censo de <strong>La Bisbal d'Empordà</strong> es <strong>20222</strong> y ha participado un <strong>74%</strong>
+la-canonja,La Canonja,6030,5527,436,166,El censo de <strong>La Canonja</strong> es <strong>17737</strong> y ha participado un <strong>69%</strong>
+la-cellera-de-ter,La Cellera de Ter,7548,5441,412,417,El censo de <strong>La Cellera de Ter</strong> es <strong>19799</strong> y ha participado un <strong>70%</strong>
+la-coma-i-la-pedra,La Coma i la Pedra,5937,3477,227,182,El censo de <strong>La Coma i la Pedra</strong> es <strong>14014</strong> y ha participado un <strong>70%</strong>
+la-fatarella,La Fatarella,8515,4659,393,269,El censo de <strong>La Fatarella</strong> es <strong>17895</strong> y ha participado un <strong>77%</strong>
+la-febro,La Febró,8327,3751,159,104,El censo de <strong>La Febró</strong> es <strong>17107</strong> y ha participado un <strong>72%</strong>
+la-figuera,La Figuera,9549,5601,224,459,El censo de <strong>La Figuera</strong> es <strong>19117</strong> y ha participado un <strong>83%</strong>
+la-floresta,la Floresta,9987,4184,350,363,El censo de <strong>la Floresta</strong> es <strong>18772</strong> y ha participado un <strong>79%</strong>
+la-fuliola,La Fuliola,5938,4101,408,302,El censo de <strong>La Fuliola</strong> es <strong>15998</strong> y ha participado un <strong>67%</strong>
+la-galera,La Galera,5932,3683,301,235,El censo de <strong>La Galera</strong> es <strong>13644</strong> y ha participado un <strong>74%</strong>
+la-garriga,La Garriga,5540,3201,255,438,El censo de <strong>La Garriga</strong> es <strong>14780</strong> y ha participado un <strong>64%</strong>
+la-granada,La Granada,9302,4310,319,493,El censo de <strong>La Granada</strong> es <strong>19298</strong> y ha participado un <strong>75%</strong>
+la-granadella,La Granadella,6611,5800,470,269,El censo de <strong>La Granadella</strong> es <strong>19064</strong> y ha participado un <strong>69%</strong>
+la-granja-d-escarp,La Granja d'Escarp,9329,3910,169,170,El censo de <strong>La Granja d'Escarp</strong> es <strong>18559</strong> y ha participado un <strong>73%</strong>
+la-guingueta-d-aneu,La Guingueta d'Àneu,5503,5953,216,443,El censo de <strong>La Guingueta d'Àneu</strong> es <strong>17637</strong> y ha participado un <strong>69%</strong>
+la-jonquera,La Jonquera,9451,5016,301,483,El censo de <strong>La Jonquera</strong> es <strong>19307</strong> y ha participado un <strong>79%</strong>
+la-llacuna,La Llacuna,7456,5860,268,136,El censo de <strong>La Llacuna</strong> es <strong>16933</strong> y ha participado un <strong>81%</strong>
+la-llagosta,La Llagosta,9928,4812,464,304,El censo de <strong>La Llagosta</strong> es <strong>20831</strong> y ha participado un <strong>74%</strong>
+la-maso,La Masó,5057,3391,118,103,El censo de <strong>La Masó</strong> es <strong>11711</strong> y ha participado un <strong>74%</strong>
+la-molsosa,La Molsosa,5422,5802,426,350,El censo de <strong>La Molsosa</strong> es <strong>17976</strong> y ha participado un <strong>67%</strong>
+la-morera-de-montsant,La Morera de Montsant,9348,5714,274,119,El censo de <strong>La Morera de Montsant</strong> es <strong>19630</strong> y ha participado un <strong>79%</strong>
+la-nou-de-bergueda,La Nou de Berguedà,9210,5017,250,404,El censo de <strong>La Nou de Berguedà</strong> es <strong>19829</strong> y ha participado un <strong>75%</strong>
+la-nou-de-gaia,La Nou de Gaià,9581,3600,323,223,El censo de <strong>La Nou de Gaià</strong> es <strong>16885</strong> y ha participado un <strong>81%</strong>
+la-palma-de-cervello,La Palma de Cervelló,6152,4927,334,148,El censo de <strong>La Palma de Cervelló</strong> es <strong>16092</strong> y ha participado un <strong>72%</strong>
+la-palma-d-ebre,La Palma d'Ebre,5221,3331,269,271,El censo de <strong>La Palma d'Ebre</strong> es <strong>12448</strong> y ha participado un <strong>73%</strong>
+la-pera,La Pera,9429,4227,363,415,El censo de <strong>La Pera</strong> es <strong>18160</strong> y ha participado un <strong>79%</strong>
+la-pobla-de-cervoles,La Pobla de Cérvoles,7657,5590,386,163,El censo de <strong>La Pobla de Cérvoles</strong> es <strong>18647</strong> y ha participado un <strong>74%</strong>
+la-pobla-de-claramunt,La Pobla de Claramunt,6906,4878,263,138,El censo de <strong>La Pobla de Claramunt</strong> es <strong>18090</strong> y ha participado un <strong>67%</strong>
+la-pobla-de-lillet,La Pobla de Lillet,8618,4771,313,159,El censo de <strong>La Pobla de Lillet</strong> es <strong>19352</strong> y ha participado un <strong>72%</strong>
+la-pobla-de-mafumet,La Pobla de Mafumet,5636,5570,195,201,El censo de <strong>La Pobla de Mafumet</strong> es <strong>15652</strong> y ha participado un <strong>74%</strong>
+la-pobla-de-massaluca,La Pobla de Massaluca,5572,3105,494,265,El censo de <strong>La Pobla de Massaluca</strong> es <strong>13436</strong> y ha participado un <strong>70%</strong>
+la-pobla-de-montornes,La Pobla de Montornès,8675,4969,331,447,El censo de <strong>La Pobla de Montornès</strong> es <strong>19429</strong> y ha participado un <strong>74%</strong>
+la-pobla-de-segur,La Pobla de Segur,8293,4382,490,472,El censo de <strong>La Pobla de Segur</strong> es <strong>16947</strong> y ha participado un <strong>80%</strong>
+la-portella,La Portella,7871,4064,489,380,El censo de <strong>La Portella</strong> es <strong>16825</strong> y ha participado un <strong>76%</strong>
+la-quar,La Quar,9240,3365,297,491,El censo de <strong>La Quar</strong> es <strong>18210</strong> y ha participado un <strong>74%</strong>
+la-riba,La Riba,9487,3947,386,349,El censo de <strong>La Riba</strong> es <strong>19779</strong> y ha participado un <strong>72%</strong>
+la-riera-de-gaia,La Riera de Gaià,7754,3923,334,404,El censo de <strong>La Riera de Gaià</strong> es <strong>15669</strong> y ha participado un <strong>79%</strong>
+la-roca-del-valles,La Roca del Vallès,7821,3706,193,473,El censo de <strong>La Roca del Vallès</strong> es <strong>15543</strong> y ha participado un <strong>78%</strong>
+la-secuita,La Secuita,8487,4368,313,245,El censo de <strong>La Secuita</strong> es <strong>18589</strong> y ha participado un <strong>72%</strong>
+la-selva-de-mar,La Selva de Mar,6383,5825,435,403,El censo de <strong>La Selva de Mar</strong> es <strong>17787</strong> y ha participado un <strong>73%</strong>
+la-selva-del-camp,La Selva del Camp,8839,3235,476,280,El censo de <strong>La Selva del Camp</strong> es <strong>18194</strong> y ha participado un <strong>71%</strong>
+la-senia,La Sénia,8839,5543,171,475,El censo de <strong>La Sénia</strong> es <strong>19012</strong> y ha participado un <strong>79%</strong>
+la-sentiu-de-sio,La Sentiu de Sió,9220,5823,250,395,El censo de <strong>La Sentiu de Sió</strong> es <strong>19993</strong> y ha participado un <strong>78%</strong>
+la-seu-d-urgell,La Seu d'Urgell,9560,3934,181,368,El censo de <strong>La Seu d'Urgell</strong> es <strong>18529</strong> y ha participado un <strong>76%</strong>
+la-tallada-d-emporda,La Tallada d'Empordà,8601,4215,496,366,El censo de <strong>La Tallada d'Empordà</strong> es <strong>18901</strong> y ha participado un <strong>72%</strong>
+la-torre-de-cabdella,La Torre de Cabdella,8711,4650,166,138,El censo de <strong>La Torre de Cabdella</strong> es <strong>18322</strong> y ha participado un <strong>75%</strong>
+la-torre-de-claramunt,La Torre de Claramunt,5750,3415,234,417,El censo de <strong>La Torre de Claramunt</strong> es <strong>14784</strong> y ha participado un <strong>66%</strong>
+la-torre-de-fontaubella,La Torre de Fontaubella,9960,3791,460,346,El censo de <strong>La Torre de Fontaubella</strong> es <strong>20365</strong> y ha participado un <strong>71%</strong>
+la-torre-de-l-espanyol,La Torre de l'Espanyol,8014,4113,416,500,El censo de <strong>La Torre de l'Espanyol</strong> es <strong>16912</strong> y ha participado un <strong>77%</strong>
+la-vajol,La Vajol,6844,3367,115,473,El censo de <strong>La Vajol</strong> es <strong>15339</strong> y ha participado un <strong>70%</strong>
+la-vall-de-bianya,La Vall de Bianya,5797,4066,250,319,El censo de <strong>La Vall de Bianya</strong> es <strong>14651</strong> y ha participado un <strong>71%</strong>
+la-vall-de-boi,La Vall de Boí,8846,3058,268,201,El censo de <strong>La Vall de Boí</strong> es <strong>16850</strong> y ha participado un <strong>73%</strong>
+la-vall-d-en-bas,La Vall d'en Bas,6548,5833,461,276,El censo de <strong>La Vall d'en Bas</strong> es <strong>17977</strong> y ha participado un <strong>73%</strong>
+la-vansa-i-fornols,La Vansa i Fórnols,5479,3624,306,474,El censo de <strong>La Vansa i Fórnols</strong> es <strong>14315</strong> y ha participado un <strong>69%</strong>
+la-vilella-alta,La Vilella Alta,8334,3731,475,257,El censo de <strong>La Vilella Alta</strong> es <strong>15867</strong> y ha participado un <strong>81%</strong>
+la-vilella-baixa,La Vilella Baixa,6104,5595,428,347,El censo de <strong>La Vilella Baixa</strong> es <strong>18152</strong> y ha participado un <strong>69%</strong>
+l-albages,L'Albagés,5798,3547,237,306,El censo de <strong>L'Albagés</strong> es <strong>15571</strong> y ha participado un <strong>64%</strong>
+l-albi,L'Albi,6144,5170,269,448,El censo de <strong>L'Albi</strong> es <strong>15161</strong> y ha participado un <strong>79%</strong>
+l-albiol,L'Albiol,5497,4519,206,377,El censo de <strong>L'Albiol</strong> es <strong>13942</strong> y ha participado un <strong>76%</strong>
+l-aldea,L'Aldea,6602,4539,177,148,El censo de <strong>L'Aldea</strong> es <strong>16124</strong> y ha participado un <strong>71%</strong>
+l-aleixar,L'Aleixar,8821,4126,357,449,El censo de <strong>L'Aleixar</strong> es <strong>19665</strong> y ha participado un <strong>70%</strong>
+l-ametlla-de-mar,L'Ametlla de Mar,9847,4881,434,331,El censo de <strong>L'Ametlla de Mar</strong> es <strong>18997</strong> y ha participado un <strong>82%</strong>
+l-ametlla-del-valles,L'Ametlla del Vallès,8355,3289,468,421,El censo de <strong>L'Ametlla del Vallès</strong> es <strong>18086</strong> y ha participado un <strong>69%</strong>
+l-ampolla,L'Ampolla,9327,4426,458,199,El censo de <strong>L'Ampolla</strong> es <strong>19519</strong> y ha participado un <strong>74%</strong>
+l-arboc,L'Arboç,8482,4977,396,377,El censo de <strong>L'Arboç</strong> es <strong>18366</strong> y ha participado un <strong>77%</strong>
+l-argentera,L'Argentera,6844,3736,120,415,El censo de <strong>L'Argentera</strong> es <strong>14241</strong> y ha participado un <strong>78%</strong>
+l-armentera,L'Armentera,5964,4414,500,452,El censo de <strong>L'Armentera</strong> es <strong>16383</strong> y ha participado un <strong>69%</strong>
+les,Les,6928,3572,484,390,El censo de <strong>Les</strong> es <strong>14722</strong> y ha participado un <strong>77%</strong>
+les-avellanes-i-santa-linya,Les Avellanes i Santa Linya,6994,4183,111,255,El censo de <strong>Les Avellanes i Santa Linya</strong> es <strong>17382</strong> y ha participado un <strong>66%</strong>
+les-borges-blanques,Les Borges Blanques,8313,4303,147,419,El censo de <strong>Les Borges Blanques</strong> es <strong>16877</strong> y ha participado un <strong>78%</strong>
+les-borges-del-camp,Les Borges del Camp,8591,4107,327,370,El censo de <strong>Les Borges del Camp</strong> es <strong>17302</strong> y ha participado un <strong>77%</strong>
+les-cabanyes,Les Cabanyes,5538,4997,220,386,El censo de <strong>Les Cabanyes</strong> es <strong>15598</strong> y ha participado un <strong>71%</strong>
+les-franqueses-del-valles,Les Franqueses del Vallès,7637,3190,411,498,El censo de <strong>Les Franqueses del Vallès</strong> es <strong>15325</strong> y ha participado un <strong>77%</strong>
+les-llosses,Les Llosses,5465,5749,433,179,El censo de <strong>Les Llosses</strong> es <strong>15113</strong> y ha participado un <strong>78%</strong>
+les-masies-de-roda,Les Masies de Roda,8455,4569,136,460,El censo de <strong>Les Masies de Roda</strong> es <strong>18479</strong> y ha participado un <strong>74%</strong>
+les-masies-de-voltrega,Les Masies de Voltregà,5997,4890,265,346,El censo de <strong>Les Masies de Voltregà</strong> es <strong>15274</strong> y ha participado un <strong>75%</strong>
+les-oluges,Les Oluges,5909,4001,162,164,El censo de <strong>Les Oluges</strong> es <strong>15692</strong> y ha participado un <strong>65%</strong>
+les-piles,Les Piles,8698,3311,150,353,El censo de <strong>Les Piles</strong> es <strong>16535</strong> y ha participado un <strong>76%</strong>
+les-planes-d-hostoles,Les Planes d'Hostoles,6256,4968,363,311,El censo de <strong>Les Planes d'Hostoles</strong> es <strong>16010</strong> y ha participado un <strong>74%</strong>
+les-preses,Les Preses,7716,5625,201,176,El censo de <strong>Les Preses</strong> es <strong>18416</strong> y ha participado un <strong>74%</strong>
+les-valls-d-aguilar,Les Valls d'Aguilar,6545,3500,395,168,El censo de <strong>Les Valls d'Aguilar</strong> es <strong>13850</strong> y ha participado un <strong>77%</strong>
+les-valls-de-valira,Les Valls de Valira,7915,4148,468,340,El censo de <strong>Les Valls de Valira</strong> es <strong>17128</strong> y ha participado un <strong>75%</strong>
+l-escala,L'Escala,9556,4434,493,109,El censo de <strong>L'Escala</strong> es <strong>20136</strong> y ha participado un <strong>72%</strong>
+l-espluga-calba,L'Espluga Calba,7970,3835,490,394,El censo de <strong>L'Espluga Calba</strong> es <strong>17004</strong> y ha participado un <strong>75%</strong>
+l-espluga-de-francoli,L'Espluga de Francolí,9669,5063,184,303,El censo de <strong>L'Espluga de Francolí</strong> es <strong>20713</strong> y ha participado un <strong>73%</strong>
+l-espunyola,L'Espunyola,5405,4775,233,424,El censo de <strong>L'Espunyola</strong> es <strong>16731</strong> y ha participado un <strong>65%</strong>
+l-esquirol,L'Esquirol,7748,4862,373,366,El censo de <strong>L'Esquirol</strong> es <strong>18700</strong> y ha participado un <strong>71%</strong>
+l-estany,L'Estany,7429,3321,221,198,El censo de <strong>L'Estany</strong> es <strong>16421</strong> y ha participado un <strong>68%</strong>
+l-hospitalet-de-llobregat,L'Hospitalet de Llobregat,7827,3414,349,285,El censo de <strong>L'Hospitalet de Llobregat</strong> es <strong>15619</strong> y ha participado un <strong>76%</strong>
+linyola,Linyola,8109,4298,308,239,El censo de <strong>Linyola</strong> es <strong>18279</strong> y ha participado un <strong>71%</strong>
+llado,Lladó,7183,5283,436,424,El censo de <strong>Lladó</strong> es <strong>19151</strong> y ha participado un <strong>70%</strong>
+lladorre,Lladorre,6533,3763,213,266,El censo de <strong>Lladorre</strong> es <strong>16003</strong> y ha participado un <strong>67%</strong>
+lladurs,Lladurs,7318,4517,343,274,El censo de <strong>Lladurs</strong> es <strong>16373</strong> y ha participado un <strong>76%</strong>
+llagostera,Llagostera,9034,4417,287,113,El censo de <strong>Llagostera</strong> es <strong>17451</strong> y ha participado un <strong>79%</strong>
+llambilles,Llambilles,9156,4103,309,321,El censo de <strong>Llambilles</strong> es <strong>18072</strong> y ha participado un <strong>77%</strong>
+llanars,Llanars,6347,5162,155,271,El censo de <strong>Llanars</strong> es <strong>16659</strong> y ha participado un <strong>72%</strong>
+llanca,Llançà,9735,5168,333,288,El censo de <strong>Llançà</strong> es <strong>19997</strong> y ha participado un <strong>78%</strong>
+llardecans,Llardecans,5342,3563,316,138,El censo de <strong>Llardecans</strong> es <strong>15078</strong> y ha participado un <strong>62%</strong>
+llavorsi,Llavorsí,9339,3177,118,212,El censo de <strong>Llavorsí</strong> es <strong>16825</strong> y ha participado un <strong>76%</strong>
+lleida,Lleida,7812,6000,461,394,El censo de <strong>Lleida</strong> es <strong>18506</strong> y ha participado un <strong>79%</strong>
+llers,Llers,8965,5885,399,481,El censo de <strong>Llers</strong> es <strong>21561</strong> y ha participado un <strong>73%</strong>
+lles-de-cerdanya,Lles de Cerdanya,5932,3082,220,115,El censo de <strong>Lles de Cerdanya</strong> es <strong>15201</strong> y ha participado un <strong>62%</strong>
+llica-d-amunt,Lliçà d'Amunt,9367,5313,166,470,El censo de <strong>Lliçà d'Amunt</strong> es <strong>18596</strong> y ha participado un <strong>82%</strong>
+llica-de-vall,Lliçà de Vall,8584,4233,317,107,El censo de <strong>Lliçà de Vall</strong> es <strong>18466</strong> y ha participado un <strong>72%</strong>
+llimiana,Llimiana,8558,3225,457,156,El censo de <strong>Llimiana</strong> es <strong>16406</strong> y ha participado un <strong>76%</strong>
+llinars-del-valles,Llinars del Vallès,9832,4382,219,404,El censo de <strong>Llinars del Vallès</strong> es <strong>19118</strong> y ha participado un <strong>78%</strong>
+llivia,Llívia,5045,5852,106,161,El censo de <strong>Llívia</strong> es <strong>14775</strong> y ha participado un <strong>76%</strong>
+llobera,Llobera,7003,3039,409,326,El censo de <strong>Llobera</strong> es <strong>15577</strong> y ha participado un <strong>69%</strong>
+llorac,Llorac,8616,4160,266,278,El censo de <strong>Llorac</strong> es <strong>18972</strong> y ha participado un <strong>70%</strong>
+llorenc-del-penedes,Llorenç del Penedès,9239,3492,317,146,El censo de <strong>Llorenç del Penedès</strong> es <strong>17036</strong> y ha participado un <strong>77%</strong>
+lloret-de-mar,Lloret de Mar,7765,4998,165,254,El censo de <strong>Lloret de Mar</strong> es <strong>17413</strong> y ha participado un <strong>76%</strong>
+lluca,Lluçà,6709,4513,356,185,El censo de <strong>Lluçà</strong> es <strong>15177</strong> y ha participado un <strong>78%</strong>
+macanet-de-cabrenys,Maçanet de Cabrenys,5977,3552,280,304,El censo de <strong>Maçanet de Cabrenys</strong> es <strong>14639</strong> y ha participado un <strong>69%</strong>
+macanet-de-la-selva,Maçanet de la Selva,9683,3399,221,421,El censo de <strong>Maçanet de la Selva</strong> es <strong>17000</strong> y ha participado un <strong>81%</strong>
+madremanya,Madremanya,9280,3661,106,232,El censo de <strong>Madremanya</strong> es <strong>18721</strong> y ha participado un <strong>71%</strong>
+maia-de-montcal,Maià de Montcal,6311,3240,275,457,El censo de <strong>Maià de Montcal</strong> es <strong>13812</strong> y ha participado un <strong>74%</strong>
+maials,Maials,5123,3150,353,243,El censo de <strong>Maials</strong> es <strong>13954</strong> y ha participado un <strong>64%</strong>
+malda,Maldà,9916,5512,347,249,El censo de <strong>Maldà</strong> es <strong>19394</strong> y ha participado un <strong>83%</strong>
+malgrat-de-mar,Malgrat de Mar,5203,4757,486,394,El censo de <strong>Malgrat de Mar</strong> es <strong>14808</strong> y ha participado un <strong>73%</strong>
+malla,Malla,7468,4897,295,337,El censo de <strong>Malla</strong> es <strong>17949</strong> y ha participado un <strong>72%</strong>
+manlleu,Manlleu,9224,5673,152,234,El censo de <strong>Manlleu</strong> es <strong>18972</strong> y ha participado un <strong>81%</strong>
+manresa,Manresa,8089,4276,127,177,El censo de <strong>Manresa</strong> es <strong>17193</strong> y ha participado un <strong>74%</strong>
+marca,Marçà,8526,4691,194,128,El censo de <strong>Marçà</strong> es <strong>17180</strong> y ha participado un <strong>79%</strong>
+margalef,Margalef,9538,3184,200,375,El censo de <strong>Margalef</strong> es <strong>17205</strong> y ha participado un <strong>77%</strong>
+marganell,Marganell,9272,3419,108,107,El censo de <strong>Marganell</strong> es <strong>17967</strong> y ha participado un <strong>72%</strong>
+martorell,Martorell,5274,4766,222,240,El censo de <strong>Martorell</strong> es <strong>15616</strong> y ha participado un <strong>67%</strong>
+martorelles,Martorelles,9955,5777,366,212,El censo de <strong>Martorelles</strong> es <strong>19457</strong> y ha participado un <strong>84%</strong>
+mas-de-barberans,Mas de Barberans,9310,3584,439,260,El censo de <strong>Mas de Barberans</strong> es <strong>19371</strong> y ha participado un <strong>70%</strong>
+masarac,Masarac,8447,3550,161,256,El censo de <strong>Masarac</strong> es <strong>16148</strong> y ha participado un <strong>77%</strong>
+masdenverge,Masdenverge,8013,4641,101,278,El censo de <strong>Masdenverge</strong> es <strong>16596</strong> y ha participado un <strong>79%</strong>
+masllorenc,Masllorenç,7116,3364,286,346,El censo de <strong>Masllorenç</strong> es <strong>14764</strong> y ha participado un <strong>75%</strong>
+maspujols,Maspujols,5404,5308,180,157,El censo de <strong>Maspujols</strong> es <strong>15228</strong> y ha participado un <strong>73%</strong>
+masquefa,Masquefa,7774,3526,292,250,El censo de <strong>Masquefa</strong> es <strong>16566</strong> y ha participado un <strong>71%</strong>
+massalcoreig,Massalcoreig,9826,3163,348,231,El censo de <strong>Massalcoreig</strong> es <strong>19300</strong> y ha participado un <strong>70%</strong>
+massanes,Massanes,7752,4459,329,156,El censo de <strong>Massanes</strong> es <strong>17013</strong> y ha participado un <strong>75%</strong>
+massoteres,Massoteres,7808,5490,116,164,El censo de <strong>Massoteres</strong> es <strong>19025</strong> y ha participado un <strong>71%</strong>
+matadepera,Matadepera,7017,3768,345,341,El censo de <strong>Matadepera</strong> es <strong>16143</strong> y ha participado un <strong>71%</strong>
+mataro,Mataró,6449,3599,395,376,El censo de <strong>Mataró</strong> es <strong>14903</strong> y ha participado un <strong>73%</strong>
+medinya,Medinyà,9678,4726,163,414,El censo de <strong>Medinyà</strong> es <strong>18126</strong> y ha participado un <strong>83%</strong>
+mediona,Mediona,7135,4201,297,192,El censo de <strong>Mediona</strong> es <strong>15646</strong> y ha participado un <strong>76%</strong>
+menarguens,Menàrguens,8927,5031,248,486,El censo de <strong>Menàrguens</strong> es <strong>19564</strong> y ha participado un <strong>75%</strong>
+meranges,Meranges,7923,5893,200,470,El censo de <strong>Meranges</strong> es <strong>20093</strong> y ha participado un <strong>72%</strong>
+mieres,Mieres,8808,3768,484,210,El censo de <strong>Mieres</strong> es <strong>16504</strong> y ha participado un <strong>80%</strong>
+miralcamp,Miralcamp,5925,5634,223,352,El censo de <strong>Miralcamp</strong> es <strong>17978</strong> y ha participado un <strong>67%</strong>
+miravet,Miravet,9390,4207,328,453,El censo de <strong>Miravet</strong> es <strong>18777</strong> y ha participado un <strong>77%</strong>
+moia,Moià,9236,3661,306,389,El censo de <strong>Moià</strong> es <strong>17744</strong> y ha participado un <strong>77%</strong>
+molins-de-rei,Molins de Rei,5909,5978,236,171,El censo de <strong>Molins de Rei</strong> es <strong>16405</strong> y ha participado un <strong>75%</strong>
+mollerussa,Mollerussa,6592,5202,157,351,El censo de <strong>Mollerussa</strong> es <strong>16562</strong> y ha participado un <strong>74%</strong>
+mollet-de-peralada,Mollet de Peralada,6921,3852,460,492,El censo de <strong>Mollet de Peralada</strong> es <strong>14909</strong> y ha participado un <strong>79%</strong>
+mollet-del-valles,Mollet del Vallès,9575,4858,276,500,El censo de <strong>Mollet del Vallès</strong> es <strong>18453</strong> y ha participado un <strong>82%</strong>
+mollo,Molló,6732,4532,137,340,El censo de <strong>Molló</strong> es <strong>15088</strong> y ha participado un <strong>78%</strong>
+monistrol-de-calders,Monistrol de Calders,7732,3036,348,390,El censo de <strong>Monistrol de Calders</strong> es <strong>15908</strong> y ha participado un <strong>72%</strong>
+monistrol-de-montserrat,Monistrol de Montserrat,7657,4229,418,124,El censo de <strong>Monistrol de Montserrat</strong> es <strong>17266</strong> y ha participado un <strong>72%</strong>
+montagut-i-oix,Montagut i Oix,8100,3389,452,394,El censo de <strong>Montagut i Oix</strong> es <strong>18218</strong> y ha participado un <strong>68%</strong>
+montblanc,Montblanc,7805,4622,313,381,El censo de <strong>Montblanc</strong> es <strong>18976</strong> y ha participado un <strong>69%</strong>
+montbrio-del-camp,Montbrió del Camp,7765,4436,307,125,El censo de <strong>Montbrió del Camp</strong> es <strong>17271</strong> y ha participado un <strong>73%</strong>
+montcada-i-reixac,Montcada i Reixac,6846,3745,151,433,El censo de <strong>Montcada i Reixac</strong> es <strong>15002</strong> y ha participado un <strong>74%</strong>
+montclar,Montclar,6354,4108,306,287,El censo de <strong>Montclar</strong> es <strong>15772</strong> y ha participado un <strong>70%</strong>
+montella-i-martinet,Montellà i Martinet,5622,3388,419,351,El censo de <strong>Montellà i Martinet</strong> es <strong>14798</strong> y ha participado un <strong>66%</strong>
+montesquiu,Montesquiu,6492,3392,402,377,El censo de <strong>Montesquiu</strong> es <strong>15578</strong> y ha participado un <strong>68%</strong>
+montferrer-i-castellbo,Montferrer i Castellbò,9147,5180,315,331,El censo de <strong>Montferrer i Castellbò</strong> es <strong>20517</strong> y ha participado un <strong>73%</strong>
+montferri,Montferri,7317,3926,219,491,El censo de <strong>Montferri</strong> es <strong>17131</strong> y ha participado un <strong>70%</strong>
+montgai,Montgai,9902,5744,150,320,El censo de <strong>Montgai</strong> es <strong>21564</strong> y ha participado un <strong>75%</strong>
+montgat,Montgat,5935,5078,434,121,El censo de <strong>Montgat</strong> es <strong>16208</strong> y ha participado un <strong>71%</strong>
+montmajor,Montmajor,7803,5785,303,280,El censo de <strong>Montmajor</strong> es <strong>18413</strong> y ha participado un <strong>77%</strong>
+montmaneu,Montmaneu,9568,5011,279,384,El censo de <strong>Montmaneu</strong> es <strong>20296</strong> y ha participado un <strong>75%</strong>
+montmelo,Montmeló,7278,4737,396,432,El censo de <strong>Montmeló</strong> es <strong>18605</strong> y ha participado un <strong>69%</strong>
+montoliu-de-lleida,Montoliu de Lleida,6626,5928,395,388,El censo de <strong>Montoliu de Lleida</strong> es <strong>17582</strong> y ha participado un <strong>76%</strong>
+montoliu-de-segarra,Montoliu de Segarra,9805,4385,354,445,El censo de <strong>Montoliu de Segarra</strong> es <strong>19439</strong> y ha participado un <strong>77%</strong>
+montornes-de-segarra,Montornès de Segarra,8957,4993,172,436,El censo de <strong>Montornès de Segarra</strong> es <strong>17982</strong> y ha participado un <strong>81%</strong>
+montornes-del-valles,Montornès del Vallès,8766,3052,342,427,El censo de <strong>Montornès del Vallès</strong> es <strong>18408</strong> y ha participado un <strong>68%</strong>
+mont-ral,Mont-ral,6730,4072,405,161,El censo de <strong>Mont-ral</strong> es <strong>16899</strong> y ha participado un <strong>67%</strong>
+mont-ras,Mont-ras,7160,3367,363,105,El censo de <strong>Mont-ras</strong> es <strong>14529</strong> y ha participado un <strong>76%</strong>
+mont-roig-del-camp,Mont-roig del Camp,6769,4213,161,358,El censo de <strong>Mont-roig del Camp</strong> es <strong>16992</strong> y ha participado un <strong>68%</strong>
+montseny,Montseny,7662,4236,109,468,El censo de <strong>Montseny</strong> es <strong>18279</strong> y ha participado un <strong>68%</strong>
+mora-d-ebre,Móra d'Ebre,7960,5878,311,108,El censo de <strong>Móra d'Ebre</strong> es <strong>18261</strong> y ha participado un <strong>78%</strong>
+mora-la-nova,Móra la Nova,8084,4813,474,151,El censo de <strong>Móra la Nova</strong> es <strong>18309</strong> y ha participado un <strong>74%</strong>
+muntanyola,Muntanyola,7172,3491,151,322,El censo de <strong>Muntanyola</strong> es <strong>16663</strong> y ha participado un <strong>67%</strong>
+mura,Mura,5232,5383,129,267,El censo de <strong>Mura</strong> es <strong>16071</strong> y ha participado un <strong>69%</strong>
+nalec,Nalec,9314,3017,439,389,El censo de <strong>Nalec</strong> es <strong>17889</strong> y ha participado un <strong>74%</strong>
+naut-aran,Naut Aran,6663,4668,163,425,El censo de <strong>Naut Aran</strong> es <strong>15815</strong> y ha participado un <strong>75%</strong>
+navarcles,Navarcles,5538,4197,441,210,El censo de <strong>Navarcles</strong> es <strong>15501</strong> y ha participado un <strong>67%</strong>
+navas,Navàs,9322,4147,361,456,El censo de <strong>Navàs</strong> es <strong>20142</strong> y ha participado un <strong>71%</strong>
+navata,Navata,6528,5856,396,244,El censo de <strong>Navata</strong> es <strong>17695</strong> y ha participado un <strong>74%</strong>
+naves,Navès,5644,5083,351,102,El censo de <strong>Navès</strong> es <strong>16579</strong> y ha participado un <strong>67%</strong>
+nulles,Nulles,6696,3995,492,308,El censo de <strong>Nulles</strong> es <strong>16728</strong> y ha participado un <strong>69%</strong>
+oden,Odèn,5763,3938,220,168,El censo de <strong>Odèn</strong> es <strong>14135</strong> y ha participado un <strong>71%</strong>
+odena,Òdena,7710,3828,240,467,El censo de <strong>Òdena</strong> es <strong>15398</strong> y ha participado un <strong>80%</strong>
+ogassa,Ogassa,7616,5928,323,353,El censo de <strong>Ogassa</strong> es <strong>18568</strong> y ha participado un <strong>77%</strong>
+olerdola,Olèrdola,5688,5158,388,485,El censo de <strong>Olèrdola</strong> es <strong>15719</strong> y ha participado un <strong>75%</strong>
+olesa-de-bonesvalls,Olesa de Bonesvalls,7426,3439,281,225,El censo de <strong>Olesa de Bonesvalls</strong> es <strong>15397</strong> y ha participado un <strong>74%</strong>
+olesa-de-montserrat,Olesa de Montserrat,6483,5957,318,181,El censo de <strong>Olesa de Montserrat</strong> es <strong>18210</strong> y ha participado un <strong>71%</strong>
+oliana,Oliana,5786,5058,484,342,El censo de <strong>Oliana</strong> es <strong>17439</strong> y ha participado un <strong>67%</strong>
+oliola,Oliola,8224,5529,158,357,El censo de <strong>Oliola</strong> es <strong>17998</strong> y ha participado un <strong>79%</strong>
+olius,Olius,9165,3055,208,424,El censo de <strong>Olius</strong> es <strong>17387</strong> y ha participado un <strong>74%</strong>
+olivella,Olivella,7383,5900,116,371,El censo de <strong>Olivella</strong> es <strong>17747</strong> y ha participado un <strong>78%</strong>
+olost,Olost,9847,5270,229,191,El censo de <strong>Olost</strong> es <strong>19316</strong> y ha participado un <strong>80%</strong>
+olot,Olot,9227,3561,293,328,El censo de <strong>Olot</strong> es <strong>17256</strong> y ha participado un <strong>78%</strong>
+olvan,Olvan,6357,5893,165,212,El censo de <strong>Olvan</strong> es <strong>15846</strong> y ha participado un <strong>80%</strong>
+ordis,Ordis,5131,5389,201,444,El censo de <strong>Ordis</strong> es <strong>14347</strong> y ha participado un <strong>78%</strong>
+organya,Organyà,6853,5771,408,413,El censo de <strong>Organyà</strong> es <strong>18728</strong> y ha participado un <strong>72%</strong>
+oris,Orís,7703,3996,496,486,El censo de <strong>Orís</strong> es <strong>15922</strong> y ha participado un <strong>80%</strong>
+orista,Oristà,8996,4037,122,202,El censo de <strong>Oristà</strong> es <strong>17928</strong> y ha participado un <strong>75%</strong>
+orpi,Orpí,5125,4897,196,418,El censo de <strong>Orpí</strong> es <strong>15373</strong> y ha participado un <strong>69%</strong>
+orrius,Òrrius,9466,3753,498,156,El censo de <strong>Òrrius</strong> es <strong>17485</strong> y ha participado un <strong>79%</strong>
+os-de-balaguer,Os de Balaguer,8489,3156,340,351,El censo de <strong>Os de Balaguer</strong> es <strong>16868</strong> y ha participado un <strong>73%</strong>
+osor,Osor,9181,4991,486,161,El censo de <strong>Osor</strong> es <strong>19499</strong> y ha participado un <strong>76%</strong>
+osso-de-sio,Ossó de Sió,9117,5575,349,237,El censo de <strong>Ossó de Sió</strong> es <strong>18838</strong> y ha participado un <strong>81%</strong>
+pacs-del-penedes,Pacs del Penedès,7387,4138,251,115,El censo de <strong>Pacs del Penedès</strong> es <strong>16276</strong> y ha participado un <strong>73%</strong>
+palafolls,Palafolls,8982,3595,221,306,El censo de <strong>Palafolls</strong> es <strong>18246</strong> y ha participado un <strong>72%</strong>
+palafrugell,Palafrugell,6383,4753,485,356,El censo de <strong>Palafrugell</strong> es <strong>16125</strong> y ha participado un <strong>74%</strong>
+palamos,Palamós,5017,3730,477,330,El censo de <strong>Palamós</strong> es <strong>13982</strong> y ha participado un <strong>68%</strong>
+palau-de-santa-eulalia,Palau de Santa Eulàlia,6826,3512,199,189,El censo de <strong>Palau de Santa Eulàlia</strong> es <strong>15908</strong> y ha participado un <strong>67%</strong>
+palau-sator,Palau-sator,8523,4030,185,251,El censo de <strong>Palau-sator</strong> es <strong>16738</strong> y ha participado un <strong>78%</strong>
+palau-saverdera,Palau-saverdera,5177,3290,383,336,El censo de <strong>Palau-saverdera</strong> es <strong>12331</strong> y ha participado un <strong>74%</strong>
+palau-solita-i-plegamans,Palau-solità i Plegamans,9858,3413,296,254,El censo de <strong>Palau-solità i Plegamans</strong> es <strong>17799</strong> y ha participado un <strong>78%</strong>
+palleja,Pallejà,9783,5693,345,134,El censo de <strong>Pallejà</strong> es <strong>21569</strong> y ha participado un <strong>74%</strong>
+palol-de-revardit,Palol de Revardit,9197,3962,379,224,El censo de <strong>Palol de Revardit</strong> es <strong>18881</strong> y ha participado un <strong>73%</strong>
+pals,Pals,9354,3833,111,397,El censo de <strong>Pals</strong> es <strong>18063</strong> y ha participado un <strong>76%</strong>
+pardines,Pardines,5547,5989,288,175,El censo de <strong>Pardines</strong> es <strong>16371</strong> y ha participado un <strong>73%</strong>
+parets-del-valles,Parets del Vallès,8122,5971,148,416,El censo de <strong>Parets del Vallès</strong> es <strong>19702</strong> y ha participado un <strong>74%</strong>
+parlava,Parlavà,9104,5780,122,311,El censo de <strong>Parlavà</strong> es <strong>18317</strong> y ha participado un <strong>84%</strong>
+passanant-i-belltall,Passanant i Belltall,8354,3572,206,170,El censo de <strong>Passanant i Belltall</strong> es <strong>18201</strong> y ha participado un <strong>68%</strong>
+pau,Pau,9802,5853,241,320,El censo de <strong>Pau</strong> es <strong>22071</strong> y ha participado un <strong>73%</strong>
+pauls,Paüls,7381,3412,372,326,El censo de <strong>Paüls</strong> es <strong>14521</strong> y ha participado un <strong>79%</strong>
+pedret-i-marza,Pedret i Marzà,5438,5267,420,345,El censo de <strong>Pedret i Marzà</strong> es <strong>14652</strong> y ha participado un <strong>78%</strong>
+penelles,Penelles,9801,5780,342,242,El censo de <strong>Penelles</strong> es <strong>19496</strong> y ha participado un <strong>83%</strong>
+perafita,Perafita,6743,4633,342,258,El censo de <strong>Perafita</strong> es <strong>17412</strong> y ha participado un <strong>69%</strong>
+perafort,Perafort,8050,3764,328,491,El censo de <strong>Perafort</strong> es <strong>18092</strong> y ha participado un <strong>70%</strong>
+peralada,Peralada,7938,3816,456,418,El censo de <strong>Peralada</strong> es <strong>17344</strong> y ha participado un <strong>73%</strong>
+peramola,Peramola,9869,3177,322,212,El censo de <strong>Peramola</strong> es <strong>16676</strong> y ha participado un <strong>81%</strong>
+piera,Piera,9618,5009,234,433,El censo de <strong>Piera</strong> es <strong>18946</strong> y ha participado un <strong>81%</strong>
+pineda-de-mar,Pineda de Mar,9561,5739,167,314,El censo de <strong>Pineda de Mar</strong> es <strong>20644</strong> y ha participado un <strong>76%</strong>
+pinell-de-solsones,Pinell de Solsonès,5821,3478,392,289,El censo de <strong>Pinell de Solsonès</strong> es <strong>14525</strong> y ha participado un <strong>69%</strong>
+pinos,Pinós,5372,3551,305,434,El censo de <strong>Pinós</strong> es <strong>14267</strong> y ha participado un <strong>68%</strong>
+pira,Pira,5240,4120,439,481,El censo de <strong>Pira</strong> es <strong>15706</strong> y ha participado un <strong>65%</strong>
+planoles,Planoles,5554,4725,306,487,El censo de <strong>Planoles</strong> es <strong>15722</strong> y ha participado un <strong>70%</strong>
+poboleda,Poboleda,8582,3914,197,197,El censo de <strong>Poboleda</strong> es <strong>16652</strong> y ha participado un <strong>77%</strong>
+polinya,Polinyà,6730,4667,434,409,El censo de <strong>Polinyà</strong> es <strong>16306</strong> y ha participado un <strong>75%</strong>
+pont-de-molins,Pont de Molins,6647,3072,256,313,El censo de <strong>Pont de Molins</strong> es <strong>13786</strong> y ha participado un <strong>75%</strong>
+pontils,Pontils,7673,3709,184,495,El censo de <strong>Pontils</strong> es <strong>17376</strong> y ha participado un <strong>69%</strong>
+pontons,Pontons,7836,3016,181,458,El censo de <strong>Pontons</strong> es <strong>15106</strong> y ha participado un <strong>76%</strong>
+pontos,Pontós,6437,4242,288,166,El censo de <strong>Pontós</strong> es <strong>14779</strong> y ha participado un <strong>75%</strong>
+ponts,Ponts,6979,3916,342,271,El censo de <strong>Ponts</strong> es <strong>15208</strong> y ha participado un <strong>76%</strong>
+porqueres,Porqueres,7030,4694,327,226,El censo de <strong>Porqueres</strong> es <strong>17647</strong> y ha participado un <strong>70%</strong>
+porrera,Porrera,7349,3154,456,128,El censo de <strong>Porrera</strong> es <strong>16738</strong> y ha participado un <strong>66%</strong>
+portbou,Portbou,7000,5345,398,133,El censo de <strong>Portbou</strong> es <strong>18324</strong> y ha participado un <strong>70%</strong>
+pradell-de-la-teixeta,Pradell de la Teixeta,9511,3837,472,500,El censo de <strong>Pradell de la Teixeta</strong> es <strong>18894</strong> y ha participado un <strong>76%</strong>
+prades,Prades,5762,4543,103,330,El censo de <strong>Prades</strong> es <strong>14134</strong> y ha participado un <strong>76%</strong>
+prat-de-comte,Prat de Comte,9310,5991,102,244,El censo de <strong>Prat de Comte</strong> es <strong>20398</strong> y ha participado un <strong>77%</strong>
+pratdip,Pratdip,5417,3401,280,360,El censo de <strong>Pratdip</strong> es <strong>14780</strong> y ha participado un <strong>64%</strong>
+prats-de-llucanes,Prats de Lluçanès,9339,5296,440,200,El censo de <strong>Prats de Lluçanès</strong> es <strong>20726</strong> y ha participado un <strong>74%</strong>
+prats-i-sansor,Prats i Sansor,8871,5480,279,143,El censo de <strong>Prats i Sansor</strong> es <strong>20339</strong> y ha participado un <strong>73%</strong>
+preixana,Preixana,7786,4442,437,490,El censo de <strong>Preixana</strong> es <strong>16940</strong> y ha participado un <strong>78%</strong>
+preixens,Preixens,9932,5611,455,123,El censo de <strong>Preixens</strong> es <strong>21007</strong> y ha participado un <strong>77%</strong>
+premia-de-dalt,Premià de Dalt,8885,5654,249,175,El censo de <strong>Premià de Dalt</strong> es <strong>19113</strong> y ha participado un <strong>78%</strong>
+premia-de-mar,Premià de Mar,9086,5111,187,189,El censo de <strong>Premià de Mar</strong> es <strong>19139</strong> y ha participado un <strong>76%</strong>
+prullans,Prullans,7013,3211,311,494,El censo de <strong>Prullans</strong> es <strong>16801</strong> y ha participado un <strong>66%</strong>
+puigcerda,Puigcerdà,6244,4020,126,116,El censo de <strong>Puigcerdà</strong> es <strong>15355</strong> y ha participado un <strong>68%</strong>
+puigdalber,Puigdàlber,6563,5778,297,168,El censo de <strong>Puigdàlber</strong> es <strong>16120</strong> y ha participado un <strong>79%</strong>
+puiggros,Puiggròs,7181,5738,301,409,El censo de <strong>Puiggròs</strong> es <strong>18189</strong> y ha participado un <strong>75%</strong>
+puigpelat,Puigpelat,8464,5982,449,254,El censo de <strong>Puigpelat</strong> es <strong>19232</strong> y ha participado un <strong>79%</strong>
+puig-reig,Puig-reig,9412,3471,450,485,El censo de <strong>Puig-reig</strong> es <strong>16913</strong> y ha participado un <strong>82%</strong>
+puigverd-d-agramunt,Puigverd d'Agramunt,8114,4313,157,431,El censo de <strong>Puigverd d'Agramunt</strong> es <strong>16358</strong> y ha participado un <strong>80%</strong>
+puigverd-de-lleida,Puigverd de Lleida,9390,3716,473,399,El censo de <strong>Puigverd de Lleida</strong> es <strong>19952</strong> y ha participado un <strong>70%</strong>
+pujalt,Pujalt,9411,3331,498,376,El censo de <strong>Pujalt</strong> es <strong>19171</strong> y ha participado un <strong>71%</strong>
+quart,Quart,5031,5964,459,419,El censo de <strong>Quart</strong> es <strong>15196</strong> y ha participado un <strong>78%</strong>
+queralbs,Queralbs,9515,3284,145,381,El censo de <strong>Queralbs</strong> es <strong>17275</strong> y ha participado un <strong>77%</strong>
+querol,Querol,9629,5210,143,389,El censo de <strong>Querol</strong> es <strong>20189</strong> y ha participado un <strong>76%</strong>
+rabos,Rabós,5790,3883,295,305,El censo de <strong>Rabós</strong> es <strong>15940</strong> y ha participado un <strong>64%</strong>
+rajadell,Rajadell,9248,3932,129,423,El censo de <strong>Rajadell</strong> es <strong>18876</strong> y ha participado un <strong>73%</strong>
+rasquera,Rasquera,7857,4006,331,436,El censo de <strong>Rasquera</strong> es <strong>18425</strong> y ha participado un <strong>69%</strong>
+regencos,Regencós,8404,4420,378,234,El censo de <strong>Regencós</strong> es <strong>16753</strong> y ha participado un <strong>80%</strong>
+rellinars,Rellinars,6063,4608,442,428,El censo de <strong>Rellinars</strong> es <strong>15877</strong> y ha participado un <strong>73%</strong>
+renau,Renau,9390,5461,193,429,El censo de <strong>Renau</strong> es <strong>20751</strong> y ha participado un <strong>75%</strong>
+reus,Reus,8013,4178,151,164,El censo de <strong>Reus</strong> es <strong>16740</strong> y ha participado un <strong>75%</strong>
+rialp,Rialp,6414,3460,115,175,El censo de <strong>Rialp</strong> es <strong>14574</strong> y ha participado un <strong>70%</strong>
+riba-roja-d-ebre,Riba-roja d'Ebre,5564,4616,365,484,El censo de <strong>Riba-roja d'Ebre</strong> es <strong>15200</strong> y ha participado un <strong>73%</strong>
+ribera-d-ondara,Ribera d'Ondara,5278,3496,177,254,El censo de <strong>Ribera d'Ondara</strong> es <strong>13943</strong> y ha participado un <strong>66%</strong>
+ribera-d-urgellet,Ribera d'Urgellet,9477,4464,441,346,El censo de <strong>Ribera d'Urgellet</strong> es <strong>20187</strong> y ha participado un <strong>73%</strong>
+ribes-de-freser,Ribes de Freser,6407,3534,489,211,El censo de <strong>Ribes de Freser</strong> es <strong>16078</strong> y ha participado un <strong>66%</strong>
+riells-i-viabrea,Riells i Viabrea,6799,5347,329,366,El censo de <strong>Riells i Viabrea</strong> es <strong>16252</strong> y ha participado un <strong>79%</strong>
+riner,Riner,7072,3258,476,171,El censo de <strong>Riner</strong> es <strong>15411</strong> y ha participado un <strong>71%</strong>
+ripoll,Ripoll,7881,3548,367,433,El censo de <strong>Ripoll</strong> es <strong>15502</strong> y ha participado un <strong>79%</strong>
+ripollet,Ripollet,7616,3883,412,130,El censo de <strong>Ripollet</strong> es <strong>15723</strong> y ha participado un <strong>77%</strong>
+riu-de-cerdanya,Riu de Cerdanya,8873,5279,361,286,El censo de <strong>Riu de Cerdanya</strong> es <strong>20286</strong> y ha participado un <strong>73%</strong>
+riudarenes,Riudarenes,6676,4096,440,294,El censo de <strong>Riudarenes</strong> es <strong>15750</strong> y ha participado un <strong>73%</strong>
+riudaura,Riudaura,8003,3320,358,282,El censo de <strong>Riudaura</strong> es <strong>16612</strong> y ha participado un <strong>72%</strong>
+riudecanyes,Riudecanyes,8823,4587,238,399,El censo de <strong>Riudecanyes</strong> es <strong>19592</strong> y ha participado un <strong>72%</strong>
+riudecols,Riudecols,7215,3271,232,309,El censo de <strong>Riudecols</strong> es <strong>14477</strong> y ha participado un <strong>76%</strong>
+riudellots-de-la-selva,Riudellots de la Selva,5697,3757,276,318,El censo de <strong>Riudellots de la Selva</strong> es <strong>15294</strong> y ha participado un <strong>66%</strong>
+riudoms,Riudoms,6781,5144,161,417,El censo de <strong>Riudoms</strong> es <strong>17459</strong> y ha participado un <strong>72%</strong>
+riumors,Riumors,9783,5563,488,480,El censo de <strong>Riumors</strong> es <strong>19331</strong> y ha participado un <strong>84%</strong>
+rocafort-de-queralt,Rocafort de Queralt,6594,3685,138,124,El censo de <strong>Rocafort de Queralt</strong> es <strong>15658</strong> y ha participado un <strong>67%</strong>
+roda-de-bera,Roda de Berà,7935,4342,413,221,El censo de <strong>Roda de Berà</strong> es <strong>16513</strong> y ha participado un <strong>78%</strong>
+roda-de-ter,Roda de Ter,9351,3748,288,135,El censo de <strong>Roda de Ter</strong> es <strong>18846</strong> y ha participado un <strong>72%</strong>
+rodonya,Rodonyà,8043,4507,414,173,El censo de <strong>Rodonyà</strong> es <strong>18349</strong> y ha participado un <strong>72%</strong>
+roquetes,Roquetes,5670,4793,299,242,El censo de <strong>Roquetes</strong> es <strong>15778</strong> y ha participado un <strong>70%</strong>
+roses,Roses,6162,5217,352,326,El censo de <strong>Roses</strong> es <strong>17383</strong> y ha participado un <strong>69%</strong>
+rossello,Rosselló,8800,3164,415,363,El censo de <strong>Rosselló</strong> es <strong>17451</strong> y ha participado un <strong>73%</strong>
+rubi,Rubí,7144,3112,421,417,El censo de <strong>Rubí</strong> es <strong>14656</strong> y ha participado un <strong>76%</strong>
+rubio,Rubió,6629,3344,199,393,El censo de <strong>Rubió</strong> es <strong>14824</strong> y ha participado un <strong>71%</strong>
+rupia,Rupià,7529,4353,479,485,El censo de <strong>Rupià</strong> es <strong>17236</strong> y ha participado un <strong>75%</strong>
+rupit-i-pruit,Rupit i Pruit,5458,3211,380,350,El censo de <strong>Rupit i Pruit</strong> es <strong>14951</strong> y ha participado un <strong>63%</strong>
+sabadell,Sabadell,6143,3074,367,232,El censo de <strong>Sabadell</strong> es <strong>14561</strong> y ha participado un <strong>67%</strong>
+sagas,Sagàs,6416,3813,269,196,El censo de <strong>Sagàs</strong> es <strong>13783</strong> y ha participado un <strong>78%</strong>
+salas-de-pallars,Salàs de Pallars,5533,4042,276,473,El censo de <strong>Salàs de Pallars</strong> es <strong>13956</strong> y ha participado un <strong>74%</strong>
+saldes,Saldes,5717,4954,137,294,El censo de <strong>Saldes</strong> es <strong>15913</strong> y ha participado un <strong>70%</strong>
+sales-de-llierca,Sales de Llierca,9032,3318,482,181,El censo de <strong>Sales de Llierca</strong> es <strong>18357</strong> y ha participado un <strong>71%</strong>
+sallent,Sallent,5269,5154,422,460,El censo de <strong>Sallent</strong> es <strong>14344</strong> y ha participado un <strong>79%</strong>
+salomo,Salomó,9405,3747,138,156,El censo de <strong>Salomó</strong> es <strong>16992</strong> y ha participado un <strong>79%</strong>
+salou,Salou,6384,5689,478,388,El censo de <strong>Salou</strong> es <strong>17675</strong> y ha participado un <strong>73%</strong>
+salt,Salt,9210,4154,409,328,El censo de <strong>Salt</strong> es <strong>19603</strong> y ha participado un <strong>72%</strong>
+sanauja,Sanaüja,7058,5457,198,472,El censo de <strong>Sanaüja</strong> es <strong>18744</strong> y ha participado un <strong>70%</strong>
+sant-adria-de-besos,Sant Adrià de Besòs,8246,3703,265,124,El censo de <strong>Sant Adrià de Besòs</strong> es <strong>16708</strong> y ha participado un <strong>74%</strong>
+sant-agusti-de-llucanes,Sant Agustí de Lluçanès,5119,5028,250,238,El censo de <strong>Sant Agustí de Lluçanès</strong> es <strong>15962</strong> y ha participado un <strong>67%</strong>
+sant-andreu-de-la-barca,Sant Andreu de la Barca,8587,3647,437,362,El censo de <strong>Sant Andreu de la Barca</strong> es <strong>17097</strong> y ha participado un <strong>76%</strong>
+sant-andreu-de-llavaneres,Sant Andreu de Llavaneres,7446,5212,120,419,El censo de <strong>Sant Andreu de Llavaneres</strong> es <strong>18006</strong> y ha participado un <strong>73%</strong>
+sant-andreu-salou,Sant Andreu Salou,5704,5005,381,343,El censo de <strong>Sant Andreu Salou</strong> es <strong>17237</strong> y ha participado un <strong>66%</strong>
+sant-aniol-de-finestres,Sant Aniol de Finestres,5947,4771,366,417,El censo de <strong>Sant Aniol de Finestres</strong> es <strong>15426</strong> y ha participado un <strong>75%</strong>
+sant-antoni-de-vilamajor,Sant Antoni de Vilamajor,9428,5716,224,308,El censo de <strong>Sant Antoni de Vilamajor</strong> es <strong>20588</strong> y ha participado un <strong>76%</strong>
+sant-bartomeu-del-grau,Sant Bartomeu del Grau,6962,5848,490,322,El censo de <strong>Sant Bartomeu del Grau</strong> es <strong>18029</strong> y ha participado un <strong>76%</strong>
+sant-boi-de-llobregat,Sant Boi de Llobregat,9083,5897,358,360,El censo de <strong>Sant Boi de Llobregat</strong> es <strong>21295</strong> y ha participado un <strong>74%</strong>
+sant-boi-de-llucanes,Sant Boi de Lluçanès,8244,3992,235,443,El censo de <strong>Sant Boi de Lluçanès</strong> es <strong>17095</strong> y ha participado un <strong>76%</strong>
+sant-carles-de-la-rapita,Sant Carles de la Ràpita,9463,5264,311,295,El censo de <strong>Sant Carles de la Ràpita</strong> es <strong>20139</strong> y ha participado un <strong>76%</strong>
+sant-cebria-de-vallalta,Sant Cebrià de Vallalta,8630,3056,311,265,El censo de <strong>Sant Cebrià de Vallalta</strong> es <strong>16873</strong> y ha participado un <strong>73%</strong>
+sant-celoni,Sant Celoni,9225,4848,458,399,El censo de <strong>Sant Celoni</strong> es <strong>18989</strong> y ha participado un <strong>79%</strong>
+sant-climent-de-llobregat,Sant Climent de Llobregat,6627,3507,436,490,El censo de <strong>Sant Climent de Llobregat</strong> es <strong>16624</strong> y ha participado un <strong>67%</strong>
+sant-climent-sescebes,Sant Climent Sescebes,9072,4682,342,321,El censo de <strong>Sant Climent Sescebes</strong> es <strong>18588</strong> y ha participado un <strong>78%</strong>
+sant-cugat-del-valles,Sant Cugat del Vallès,6434,4105,150,305,El censo de <strong>Sant Cugat del Vallès</strong> es <strong>15721</strong> y ha participado un <strong>70%</strong>
+sant-cugat-sesgarrigues,Sant Cugat Sesgarrigues,9918,4397,200,345,El censo de <strong>Sant Cugat Sesgarrigues</strong> es <strong>19820</strong> y ha participado un <strong>75%</strong>
+sant-esteve-de-la-sarga,Sant Esteve de la Sarga,6449,4247,318,260,El censo de <strong>Sant Esteve de la Sarga</strong> es <strong>16344</strong> y ha participado un <strong>69%</strong>
+sant-esteve-de-palautordera,Sant Esteve de Palautordera,5870,4087,263,471,El censo de <strong>Sant Esteve de Palautordera</strong> es <strong>14223</strong> y ha participado un <strong>75%</strong>
+sant-esteve-sesrovires,Sant Esteve Sesrovires,5652,5318,191,191,El censo de <strong>Sant Esteve Sesrovires</strong> es <strong>14457</strong> y ha participado un <strong>79%</strong>
+sant-feliu-de-buixalleu,Sant Feliu de Buixalleu,6839,3578,396,441,El censo de <strong>Sant Feliu de Buixalleu</strong> es <strong>15801</strong> y ha participado un <strong>71%</strong>
+sant-feliu-de-codines,Sant Feliu de Codines,8717,5641,132,208,El censo de <strong>Sant Feliu de Codines</strong> es <strong>20346</strong> y ha participado un <strong>72%</strong>
+sant-feliu-de-guixols,Sant Feliu de Guíxols,7296,4707,174,343,El censo de <strong>Sant Feliu de Guíxols</strong> es <strong>17395</strong> y ha participado un <strong>72%</strong>
+sant-feliu-de-llobregat,Sant Feliu de Llobregat,8968,3574,340,334,El censo de <strong>Sant Feliu de Llobregat</strong> es <strong>17617</strong> y ha participado un <strong>75%</strong>
+sant-feliu-de-pallerols,Sant Feliu de Pallerols,6350,5548,301,100,El censo de <strong>Sant Feliu de Pallerols</strong> es <strong>17091</strong> y ha participado un <strong>72%</strong>
+sant-feliu-sasserra,Sant Feliu Sasserra,6826,3608,386,489,El censo de <strong>Sant Feliu Sasserra</strong> es <strong>16055</strong> y ha participado un <strong>70%</strong>
+sant-ferriol,Sant Ferriol,5944,5684,420,427,El censo de <strong>Sant Ferriol</strong> es <strong>18068</strong> y ha participado un <strong>69%</strong>
+sant-fost-de-campsentelles,Sant Fost de Campsentelles,5705,5510,320,447,El censo de <strong>Sant Fost de Campsentelles</strong> es <strong>17912</strong> y ha participado un <strong>67%</strong>
+sant-fruitos-de-bages,Sant Fruitós de Bages,8731,4914,435,303,El censo de <strong>Sant Fruitós de Bages</strong> es <strong>18223</strong> y ha participado un <strong>79%</strong>
+sant-gregori,Sant Gregori,6257,3325,215,393,El censo de <strong>Sant Gregori</strong> es <strong>14142</strong> y ha participado un <strong>72%</strong>
+sant-guim-de-freixenet,Sant Guim de Freixenet,6251,5156,487,158,El censo de <strong>Sant Guim de Freixenet</strong> es <strong>16911</strong> y ha participado un <strong>71%</strong>
+sant-guim-de-la-plana,Sant Guim de la Plana,5745,5012,313,175,El censo de <strong>Sant Guim de la Plana</strong> es <strong>14853</strong> y ha participado un <strong>76%</strong>
+sant-hilari-sacalm,Sant Hilari Sacalm,8168,5401,162,240,El censo de <strong>Sant Hilari Sacalm</strong> es <strong>19525</strong> y ha participado un <strong>72%</strong>
+sant-hipolit-de-voltrega,Sant Hipòlit de Voltregà,9317,4619,124,329,El censo de <strong>Sant Hipòlit de Voltregà</strong> es <strong>20055</strong> y ha participado un <strong>72%</strong>
+sant-iscle-de-vallalta,Sant Iscle de Vallalta,6131,4714,441,148,El censo de <strong>Sant Iscle de Vallalta</strong> es <strong>14835</strong> y ha participado un <strong>77%</strong>
+sant-jaume-de-frontanya,Sant Jaume de Frontanyà,7700,3483,419,130,El censo de <strong>Sant Jaume de Frontanyà</strong> es <strong>16358</strong> y ha participado un <strong>72%</strong>
+sant-jaume-de-llierca,Sant Jaume de Llierca,5995,3144,283,278,El censo de <strong>Sant Jaume de Llierca</strong> es <strong>13943</strong> y ha participado un <strong>70%</strong>
+sant-jaume-dels-domenys,Sant Jaume dels Domenys,6575,3763,273,494,El censo de <strong>Sant Jaume dels Domenys</strong> es <strong>14488</strong> y ha participado un <strong>77%</strong>
+sant-jaume-d-enveja,Sant Jaume d'Enveja,6548,4253,375,443,El censo de <strong>Sant Jaume d'Enveja</strong> es <strong>16924</strong> y ha participado un <strong>69%</strong>
+sant-joan-de-les-abadesses,Sant Joan de les Abadesses,5713,4949,349,333,El censo de <strong>Sant Joan de les Abadesses</strong> es <strong>16819</strong> y ha participado un <strong>67%</strong>
+sant-joan-de-mollet,Sant Joan de Mollet,8084,3947,302,269,El censo de <strong>Sant Joan de Mollet</strong> es <strong>16176</strong> y ha participado un <strong>78%</strong>
+sant-joan-de-vilatorrada,Sant Joan de Vilatorrada,7340,5445,358,387,El censo de <strong>Sant Joan de Vilatorrada</strong> es <strong>19426</strong> y ha participado un <strong>70%</strong>
+sant-joan-despi,Sant Joan Despí,9577,3281,443,280,El censo de <strong>Sant Joan Despí</strong> es <strong>17018</strong> y ha participado un <strong>80%</strong>
+sant-joan-les-fonts,Sant Joan les Fonts,6329,5564,362,144,El censo de <strong>Sant Joan les Fonts</strong> es <strong>17728</strong> y ha participado un <strong>70%</strong>
+sant-jordi-desvalls,Sant Jordi Desvalls,7332,4574,139,424,El censo de <strong>Sant Jordi Desvalls</strong> es <strong>18412</strong> y ha participado un <strong>68%</strong>
+sant-julia-de-cerdanyola,Sant Julià de Cerdanyola,6810,5710,309,274,El censo de <strong>Sant Julià de Cerdanyola</strong> es <strong>17162</strong> y ha participado un <strong>76%</strong>
+sant-julia-de-ramis,Sant Julià de Ramis,8882,3679,208,225,El censo de <strong>Sant Julià de Ramis</strong> es <strong>18592</strong> y ha participado un <strong>70%</strong>
+sant-julia-de-vilatorta,Sant Julià de Vilatorta,7871,5542,233,493,El censo de <strong>Sant Julià de Vilatorta</strong> es <strong>19554</strong> y ha participado un <strong>72%</strong>
+sant-julia-del-llor-i-bonmati,Sant Julià del Llor i Bonmatí,7090,5964,101,382,El censo de <strong>Sant Julià del Llor i Bonmatí</strong> es <strong>16584</strong> y ha participado un <strong>82%</strong>
+sant-just-desvern,Sant Just Desvern,9031,3072,339,448,El censo de <strong>Sant Just Desvern</strong> es <strong>16352</strong> y ha participado un <strong>79%</strong>
+sant-llorenc-de-la-muga,Sant Llorenç de la Muga,5061,5582,451,430,El censo de <strong>Sant Llorenç de la Muga</strong> es <strong>16267</strong> y ha participado un <strong>71%</strong>
+sant-llorenc-de-morunys,Sant Llorenç de Morunys,7203,4605,392,159,El censo de <strong>Sant Llorenç de Morunys</strong> es <strong>15986</strong> y ha participado un <strong>77%</strong>
+sant-llorenc-d-hortons,Sant Llorenç d'Hortons,9735,5599,462,369,El censo de <strong>Sant Llorenç d'Hortons</strong> es <strong>19838</strong> y ha participado un <strong>81%</strong>
+sant-llorenc-savall,Sant Llorenç Savall,7202,5212,234,393,El censo de <strong>Sant Llorenç Savall</strong> es <strong>16328</strong> y ha participado un <strong>80%</strong>
+sant-marti-d-albars,Sant Martí d'Albars,7567,5956,477,166,El censo de <strong>Sant Martí d'Albars</strong> es <strong>20155</strong> y ha participado un <strong>70%</strong>
+sant-marti-de-centelles,Sant Martí de Centelles,6965,5196,347,150,El censo de <strong>Sant Martí de Centelles</strong> es <strong>17454</strong> y ha participado un <strong>73%</strong>
+sant-marti-de-llemena,Sant Martí de Llémena,6787,5428,281,471,El censo de <strong>Sant Martí de Llémena</strong> es <strong>18792</strong> y ha participado un <strong>69%</strong>
+sant-marti-de-riucorb,Sant Martí de Riucorb,5351,3793,479,172,El censo de <strong>Sant Martí de Riucorb</strong> es <strong>14871</strong> y ha participado un <strong>66%</strong>
+sant-marti-de-tous,Sant Martí de Tous,9277,3230,319,478,El censo de <strong>Sant Martí de Tous</strong> es <strong>18975</strong> y ha participado un <strong>70%</strong>
+sant-marti-sarroca,Sant Martí Sarroca,6270,5910,275,343,El censo de <strong>Sant Martí Sarroca</strong> es <strong>16676</strong> y ha participado un <strong>77%</strong>
+sant-marti-sesgueioles,Sant Martí Sesgueioles,9875,5896,150,446,El censo de <strong>Sant Martí Sesgueioles</strong> es <strong>21747</strong> y ha participado un <strong>75%</strong>
+sant-marti-vell,Sant Martí Vell,7265,4063,383,201,El censo de <strong>Sant Martí Vell</strong> es <strong>17406</strong> y ha participado un <strong>68%</strong>
+sant-mateu-de-bages,Sant Mateu de Bages,5047,5674,244,104,El censo de <strong>Sant Mateu de Bages</strong> es <strong>14654</strong> y ha participado un <strong>76%</strong>
+sant-miquel-de-campmajor,Sant Miquel de Campmajor,7858,5030,132,158,El censo de <strong>Sant Miquel de Campmajor</strong> es <strong>16715</strong> y ha participado un <strong>79%</strong>
+sant-miquel-de-fluvia,Sant Miquel de Fluvià,9194,5916,243,177,El censo de <strong>Sant Miquel de Fluvià</strong> es <strong>20770</strong> y ha participado un <strong>75%</strong>
+sant-mori,Sant Mori,9871,5479,350,318,El censo de <strong>Sant Mori</strong> es <strong>21416</strong> y ha participado un <strong>75%</strong>
+sant-pau-de-seguries,Sant Pau de Segúries,5321,3599,480,212,El censo de <strong>Sant Pau de Segúries</strong> es <strong>14580</strong> y ha participado un <strong>66%</strong>
+sant-pere-de-ribes,Sant Pere de Ribes,8181,5673,274,494,El censo de <strong>Sant Pere de Ribes</strong> es <strong>20527</strong> y ha participado un <strong>71%</strong>
+sant-pere-de-riudebitlles,Sant Pere de Riudebitlles,6440,4227,235,484,El censo de <strong>Sant Pere de Riudebitlles</strong> es <strong>16388</strong> y ha participado un <strong>69%</strong>
+sant-pere-de-torello,Sant Pere de Torelló,6087,3760,161,170,El censo de <strong>Sant Pere de Torelló</strong> es <strong>16067</strong> y ha participado un <strong>63%</strong>
+sant-pere-de-vilamajor,Sant Pere de Vilamajor,9658,5813,491,128,El censo de <strong>Sant Pere de Vilamajor</strong> es <strong>20463</strong> y ha participado un <strong>79%</strong>
+sant-pere-pescador,Sant Pere Pescador,5537,3440,470,387,El censo de <strong>Sant Pere Pescador</strong> es <strong>13343</strong> y ha participado un <strong>74%</strong>
+sant-pere-sallavinera,Sant Pere Sallavinera,8416,3930,427,110,El censo de <strong>Sant Pere Sallavinera</strong> es <strong>16077</strong> y ha participado un <strong>80%</strong>
+sant-pol-de-mar,Sant Pol de Mar,9406,5329,464,190,El censo de <strong>Sant Pol de Mar</strong> es <strong>21174</strong> y ha participado un <strong>73%</strong>
+sant-quinti-de-mediona,Sant Quintí de Mediona,8917,4010,316,167,El censo de <strong>Sant Quintí de Mediona</strong> es <strong>19305</strong> y ha participado un <strong>69%</strong>
+sant-quirze-de-besora,Sant Quirze de Besora,8749,5477,299,303,El censo de <strong>Sant Quirze de Besora</strong> es <strong>20579</strong> y ha participado un <strong>72%</strong>
+sant-quirze-del-valles,Sant Quirze del Vallès,9983,3092,221,481,El censo de <strong>Sant Quirze del Vallès</strong> es <strong>19481</strong> y ha participado un <strong>71%</strong>
+sant-quirze-safaja,Sant Quirze Safaja,7363,3754,287,175,El censo de <strong>Sant Quirze Safaja</strong> es <strong>14781</strong> y ha participado un <strong>78%</strong>
+sant-ramon,Sant Ramon,5600,4919,199,459,El censo de <strong>Sant Ramon</strong> es <strong>16337</strong> y ha participado un <strong>68%</strong>
+sant-sadurni-d-anoia,Sant Sadurní d'Anoia,7488,5409,209,253,El censo de <strong>Sant Sadurní d'Anoia</strong> es <strong>17216</strong> y ha participado un <strong>78%</strong>
+sant-sadurni-d-osormort,Sant Sadurní d'Osormort,6327,3848,348,456,El censo de <strong>Sant Sadurní d'Osormort</strong> es <strong>16649</strong> y ha participado un <strong>66%</strong>
+sant-salvador-de-guardiola,Sant Salvador de Guardiola,7316,4340,101,346,El censo de <strong>Sant Salvador de Guardiola</strong> es <strong>17025</strong> y ha participado un <strong>71%</strong>
+sant-vicenc-de-castellet,Sant Vicenç de Castellet,7023,4063,266,494,El censo de <strong>Sant Vicenç de Castellet</strong> es <strong>15664</strong> y ha participado un <strong>76%</strong>
+sant-vicenc-de-montalt,Sant Vicenç de Montalt,9804,4973,157,268,El censo de <strong>Sant Vicenç de Montalt</strong> es <strong>20981</strong> y ha participado un <strong>72%</strong>
+sant-vicenc-de-torello,Sant Vicenç de Torelló,9294,3829,110,311,El censo de <strong>Sant Vicenç de Torelló</strong> es <strong>17934</strong> y ha participado un <strong>76%</strong>
+sant-vicenc-dels-horts,Sant Vicenç dels Horts,6545,4819,374,108,El censo de <strong>Sant Vicenç dels Horts</strong> es <strong>17219</strong> y ha participado un <strong>69%</strong>
+santa-barbara,Santa Bàrbara,7391,5396,259,145,El censo de <strong>Santa Bàrbara</strong> es <strong>16768</strong> y ha participado un <strong>79%</strong>
+santa-cecilia-de-voltrega,Santa Cecília de Voltregà,9524,5673,112,294,El censo de <strong>Santa Cecília de Voltregà</strong> es <strong>20156</strong> y ha participado un <strong>77%</strong>
+santa-coloma-de-cervello,Santa Coloma de Cervelló,7536,4840,250,212,El censo de <strong>Santa Coloma de Cervelló</strong> es <strong>17371</strong> y ha participado un <strong>74%</strong>
+santa-coloma-de-farners,Santa Coloma de Farners,7845,3060,260,435,El censo de <strong>Santa Coloma de Farners</strong> es <strong>15074</strong> y ha participado un <strong>77%</strong>
+santa-coloma-de-gramenet,Santa Coloma de Gramenet,7892,3942,457,470,El censo de <strong>Santa Coloma de Gramenet</strong> es <strong>15871</strong> y ha participado un <strong>80%</strong>
+santa-coloma-de-queralt,Santa Coloma de Queralt,9715,4213,323,106,El censo de <strong>Santa Coloma de Queralt</strong> es <strong>18505</strong> y ha participado un <strong>78%</strong>
+santa-cristina-d-aro,Santa Cristina d'Aro,9218,3326,461,335,El censo de <strong>Santa Cristina d'Aro</strong> es <strong>16379</strong> y ha participado un <strong>81%</strong>
+santa-eugenia-de-berga,Santa Eugènia de Berga,9089,5342,347,266,El censo de <strong>Santa Eugènia de Berga</strong> es <strong>20660</strong> y ha participado un <strong>73%</strong>
+santa-eulalia-de-riuprimer,Santa Eulàlia de Riuprimer,8578,5188,434,419,El censo de <strong>Santa Eulàlia de Riuprimer</strong> es <strong>18731</strong> y ha participado un <strong>78%</strong>
+santa-eulalia-de-roncana,Santa Eulàlia de Ronçana,9691,3472,443,137,El censo de <strong>Santa Eulàlia de Ronçana</strong> es <strong>19526</strong> y ha participado un <strong>70%</strong>
+santa-fe-del-penedes,Santa Fe del Penedès,8122,3627,121,151,El censo de <strong>Santa Fe del Penedès</strong> es <strong>17900</strong> y ha participado un <strong>67%</strong>
+santa-llogaia-d-alguema,Santa Llogaia d'Àlguema,5000,4644,167,199,El censo de <strong>Santa Llogaia d'Àlguema</strong> es <strong>13046</strong> y ha participado un <strong>77%</strong>
+santa-margarida-de-montbui,Santa Margarida de Montbui,5559,4108,376,305,El censo de <strong>Santa Margarida de Montbui</strong> es <strong>13921</strong> y ha participado un <strong>74%</strong>
+santa-margarida-i-els-monjos,Santa Margarida i els Monjos,9034,4774,474,251,El censo de <strong>Santa Margarida i els Monjos</strong> es <strong>17822</strong> y ha participado un <strong>82%</strong>
+santa-maria-de-besora,Santa Maria de Besora,6664,5254,277,316,El censo de <strong>Santa Maria de Besora</strong> es <strong>18271</strong> y ha participado un <strong>68%</strong>
+santa-maria-de-corco,Santa Maria de Corcó,7376,3055,349,430,El censo de <strong>Santa Maria de Corcó</strong> es <strong>15854</strong> y ha participado un <strong>71%</strong>
+santa-maria-de-martorelles,Santa Maria de Martorelles,9911,4348,482,447,El censo de <strong>Santa Maria de Martorelles</strong> es <strong>19684</strong> y ha participado un <strong>77%</strong>
+santa-maria-de-merles,Santa Maria de Merlès,7519,4208,286,163,El censo de <strong>Santa Maria de Merlès</strong> es <strong>17426</strong> y ha participado un <strong>70%</strong>
+santa-maria-de-miralles,Santa Maria de Miralles,9132,3313,302,486,El censo de <strong>Santa Maria de Miralles</strong> es <strong>17798</strong> y ha participado un <strong>74%</strong>
+santa-maria-de-palautordera,Santa Maria de Palautordera,9677,5353,206,343,El censo de <strong>Santa Maria de Palautordera</strong> es <strong>19078</strong> y ha participado un <strong>82%</strong>
+santa-maria-d-olo,Santa Maria d'Oló,9862,4558,432,340,El censo de <strong>Santa Maria d'Oló</strong> es <strong>18696</strong> y ha participado un <strong>81%</strong>
+santa-oliva,Santa Oliva,5188,5730,318,347,El censo de <strong>Santa Oliva</strong> es <strong>16443</strong> y ha participado un <strong>70%</strong>
+santa-pau,Santa Pau,8935,3481,315,412,El censo de <strong>Santa Pau</strong> es <strong>18591</strong> y ha participado un <strong>71%</strong>
+santa-perpetua-de-mogoda,Santa Perpètua de Mogoda,7308,3532,428,242,El censo de <strong>Santa Perpètua de Mogoda</strong> es <strong>14569</strong> y ha participado un <strong>79%</strong>
+santa-susanna,Santa Susanna,6901,5354,174,442,El censo de <strong>Santa Susanna</strong> es <strong>17798</strong> y ha participado un <strong>72%</strong>
+santpedor,Santpedor,5540,4803,362,328,El censo de <strong>Santpedor</strong> es <strong>16620</strong> y ha participado un <strong>66%</strong>
+sarral,Sarral,5623,3330,204,444,El censo de <strong>Sarral</strong> es <strong>13103</strong> y ha participado un <strong>73%</strong>
+sarria-de-ter,Sarrià de Ter,9713,3745,391,259,El censo de <strong>Sarrià de Ter</strong> es <strong>18103</strong> y ha participado un <strong>78%</strong>
+sarroca-de-bellera,Sarroca de Bellera,6298,5499,131,195,El censo de <strong>Sarroca de Bellera</strong> es <strong>16105</strong> y ha participado un <strong>75%</strong>
+sarroca-de-lleida,Sarroca de Lleida,5781,5165,162,285,El censo de <strong>Sarroca de Lleida</strong> es <strong>15254</strong> y ha participado un <strong>75%</strong>
+saus-camallera-i-llampaies,Saus, Camallera i Llampaies,9345,3103,170,349,El censo de <strong>Saus, Camallera i Llampaies</strong> es <strong>17796</strong> y ha participado un <strong>73%</strong>
+savalla-del-comtat,Savallà del Comtat,7258,3374,109,460,El censo de <strong>Savallà del Comtat</strong> es <strong>15696</strong> y ha participado un <strong>71%</strong>
+senan,Senan,6364,4470,345,356,El censo de <strong>Senan</strong> es <strong>16283</strong> y ha participado un <strong>71%</strong>
+senterada,Senterada,5666,3671,461,338,El censo de <strong>Senterada</strong> es <strong>15816</strong> y ha participado un <strong>64%</strong>
+sentmenat,Sentmenat,5453,4877,462,492,El censo de <strong>Sentmenat</strong> es <strong>17056</strong> y ha participado un <strong>66%</strong>
+serinya,Serinyà,6915,5898,285,149,El censo de <strong>Serinyà</strong> es <strong>18471</strong> y ha participado un <strong>72%</strong>
+seros,Seròs,6614,5758,312,208,El censo de <strong>Seròs</strong> es <strong>17180</strong> y ha participado un <strong>75%</strong>
+serra-de-daro,Serra de Daró,6486,4326,352,290,El censo de <strong>Serra de Daró</strong> es <strong>17397</strong> y ha participado un <strong>66%</strong>
+setcases,Setcases,6225,5676,481,263,El censo de <strong>Setcases</strong> es <strong>18445</strong> y ha participado un <strong>69%</strong>
+seva,Seva,5308,3658,499,191,El censo de <strong>Seva</strong> es <strong>14032</strong> y ha participado un <strong>69%</strong>
+sidamon,Sidamon,6837,5817,384,382,El censo de <strong>Sidamon</strong> es <strong>18610</strong> y ha participado un <strong>72%</strong>
+sils,Sils,6561,3372,337,119,El censo de <strong>Sils</strong> es <strong>14374</strong> y ha participado un <strong>72%</strong>
+sitges,Sitges,8015,3012,377,243,El censo de <strong>Sitges</strong> es <strong>16687</strong> y ha participado un <strong>70%</strong>
+siurana,Siurana,9267,3930,365,158,El censo de <strong>Siurana</strong> es <strong>19439</strong> y ha participado un <strong>71%</strong>
+sobremunt,Sobremunt,6193,3395,252,386,El censo de <strong>Sobremunt</strong> es <strong>14096</strong> y ha participado un <strong>73%</strong>
+solivella,Solivella,5163,3161,441,376,El censo de <strong>Solivella</strong> es <strong>12962</strong> y ha participado un <strong>71%</strong>
+solsona,Solsona,6942,4350,189,149,El censo de <strong>Solsona</strong> es <strong>15630</strong> y ha participado un <strong>74%</strong>
+sora,Sora,7183,5796,222,224,El censo de <strong>Sora</strong> es <strong>17568</strong> y ha participado un <strong>76%</strong>
+soriguera,Soriguera,6594,4971,310,287,El censo de <strong>Soriguera</strong> es <strong>15291</strong> y ha participado un <strong>80%</strong>
+sort,Sort,6384,5046,482,150,El censo de <strong>Sort</strong> es <strong>16455</strong> y ha participado un <strong>73%</strong>
+soses,Soses,9887,5757,445,408,El censo de <strong>Soses</strong> es <strong>19584</strong> y ha participado un <strong>84%</strong>
+subirats,Subirats,7427,3471,102,453,El censo de <strong>Subirats</strong> es <strong>15565</strong> y ha participado un <strong>74%</strong>
+sudanell,Sudanell,7933,5826,314,464,El censo de <strong>Sudanell</strong> es <strong>19303</strong> y ha participado un <strong>75%</strong>
+sunyer,Sunyer,9897,5005,218,402,El censo de <strong>Sunyer</strong> es <strong>20641</strong> y ha participado un <strong>75%</strong>
+suria,Súria,5922,4780,141,471,El censo de <strong>Súria</strong> es <strong>15697</strong> y ha participado un <strong>72%</strong>
+susqueda,Susqueda,9879,5778,294,254,El censo de <strong>Susqueda</strong> es <strong>20484</strong> y ha participado un <strong>79%</strong>
+tagamanent,Tagamanent,6425,5761,496,300,El censo de <strong>Tagamanent</strong> es <strong>16853</strong> y ha participado un <strong>77%</strong>
+talamanca,Talamanca,6247,4628,421,425,El censo de <strong>Talamanca</strong> es <strong>16672</strong> y ha participado un <strong>70%</strong>
+talarn,Talarn,9053,5612,115,237,El censo de <strong>Talarn</strong> es <strong>19199</strong> y ha participado un <strong>78%</strong>
+talavera,Talavera,5290,4331,363,237,El censo de <strong>Talavera</strong> es <strong>14391</strong> y ha participado un <strong>71%</strong>
+taradell,Taradell,9260,3150,444,491,El censo de <strong>Taradell</strong> es <strong>16637</strong> y ha participado un <strong>80%</strong>
+tarragona,Tarragona,7388,3145,489,374,El censo de <strong>Tarragona</strong> es <strong>14781</strong> y ha participado un <strong>77%</strong>
+tarrega,Tàrrega,7937,5793,427,170,El censo de <strong>Tàrrega</strong> es <strong>17389</strong> y ha participado un <strong>82%</strong>
+tarres,Tarrés,7373,3274,497,320,El censo de <strong>Tarrés</strong> es <strong>15878</strong> y ha participado un <strong>72%</strong>
+tarroja-de-segarra,Tarroja de Segarra,5322,4972,483,461,El censo de <strong>Tarroja de Segarra</strong> es <strong>15335</strong> y ha participado un <strong>73%</strong>
+tavernoles,Tavèrnoles,6402,4810,441,243,El censo de <strong>Tavèrnoles</strong> es <strong>16670</strong> y ha participado un <strong>71%</strong>
+tavertet,Tavertet,6579,3021,167,210,El censo de <strong>Tavertet</strong> es <strong>13885</strong> y ha participado un <strong>72%</strong>
+teia,Teià,9039,5131,117,144,El censo de <strong>Teià</strong> es <strong>19027</strong> y ha participado un <strong>76%</strong>
+termens,Térmens,9452,3354,425,476,El censo de <strong>Térmens</strong> es <strong>17790</strong> y ha participado un <strong>77%</strong>
+terrades,Terrades,7388,5204,363,232,El censo de <strong>Terrades</strong> es <strong>18325</strong> y ha participado un <strong>72%</strong>
+terrassa,Terrassa,5372,5535,353,441,El censo de <strong>Terrassa</strong> es <strong>15420</strong> y ha participado un <strong>76%</strong>
+tiana,Tiana,8533,3292,396,455,El censo de <strong>Tiana</strong> es <strong>15695</strong> y ha participado un <strong>81%</strong>
+tirvia,Tírvia,5033,3789,400,469,El censo de <strong>Tírvia</strong> es <strong>14669</strong> y ha participado un <strong>66%</strong>
+tiurana,Tiurana,6987,4517,235,263,El censo de <strong>Tiurana</strong> es <strong>15724</strong> y ha participado un <strong>76%</strong>
+tivenys,Tivenys,7429,4386,272,115,El censo de <strong>Tivenys</strong> es <strong>15469</strong> y ha participado un <strong>79%</strong>
+tivissa,Tivissa,8460,4007,403,380,El censo de <strong>Tivissa</strong> es <strong>17367</strong> y ha participado un <strong>76%</strong>
+tona,Tona,8329,5308,333,393,El censo de <strong>Tona</strong> es <strong>20221</strong> y ha participado un <strong>71%</strong>
+tora,Torà,7308,5193,289,342,El censo de <strong>Torà</strong> es <strong>16849</strong> y ha participado un <strong>78%</strong>
+tordera,Tordera,6014,3110,267,361,El censo de <strong>Tordera</strong> es <strong>15190</strong> y ha participado un <strong>64%</strong>
+torello,Torelló,5776,3558,125,125,El censo de <strong>Torelló</strong> es <strong>14521</strong> y ha participado un <strong>66%</strong>
+tornabous,Tornabous,9075,5483,220,233,El censo de <strong>Tornabous</strong> es <strong>19120</strong> y ha participado un <strong>79%</strong>
+torrebesses,Torrebesses,8474,3962,367,320,El censo de <strong>Torrebesses</strong> es <strong>18521</strong> y ha participado un <strong>71%</strong>
+torredembarra,Torredembarra,9453,4893,236,484,El censo de <strong>Torredembarra</strong> es <strong>20074</strong> y ha participado un <strong>75%</strong>
+torrefarrera,Torrefarrera,6245,5373,150,474,El censo de <strong>Torrefarrera</strong> es <strong>17700</strong> y ha participado un <strong>69%</strong>
+torrefeta-i-florejacs,Torrefeta i Florejacs,8591,3941,114,385,El censo de <strong>Torrefeta i Florejacs</strong> es <strong>16247</strong> y ha participado un <strong>80%</strong>
+torregrossa,Torregrossa,8487,3634,219,223,El censo de <strong>Torregrossa</strong> es <strong>18316</strong> y ha participado un <strong>69%</strong>
+torrelameu,Torrelameu,9464,3238,470,399,El censo de <strong>Torrelameu</strong> es <strong>18493</strong> y ha participado un <strong>73%</strong>
+torrelavit,Torrelavit,5635,4185,439,428,El censo de <strong>Torrelavit</strong> es <strong>16440</strong> y ha participado un <strong>65%</strong>
+torrelles-de-foix,Torrelles de Foix,9801,4837,176,293,El censo de <strong>Torrelles de Foix</strong> es <strong>20581</strong> y ha participado un <strong>73%</strong>
+torrelles-de-llobregat,Torrelles de Llobregat,7380,4468,159,180,El censo de <strong>Torrelles de Llobregat</strong> es <strong>17378</strong> y ha participado un <strong>70%</strong>
+torrent,Torrent,7075,3243,108,266,El censo de <strong>Torrent</strong> es <strong>16545</strong> y ha participado un <strong>65%</strong>
+torres-de-segre,Torres de Segre,6301,4609,199,292,El censo de <strong>Torres de Segre</strong> es <strong>16845</strong> y ha participado un <strong>68%</strong>
+torre-serona,Torre-serona,8420,4629,203,494,El censo de <strong>Torre-serona</strong> es <strong>18593</strong> y ha participado un <strong>74%</strong>
+torroella-de-fluvia,Torroella de Fluvià,8654,5295,234,450,El censo de <strong>Torroella de Fluvià</strong> es <strong>18556</strong> y ha participado un <strong>79%</strong>
+torroella-de-montgri,Torroella de Montgrí,5203,5767,472,404,El censo de <strong>Torroella de Montgrí</strong> es <strong>17518</strong> y ha participado un <strong>68%</strong>
+torroja-del-priorat,Torroja del Priorat,9570,3762,451,118,El censo de <strong>Torroja del Priorat</strong> es <strong>17879</strong> y ha participado un <strong>78%</strong>
+tortella,Tortellà,8881,3326,201,413,El censo de <strong>Tortellà</strong> es <strong>17376</strong> y ha participado un <strong>74%</strong>
+tortosa,Tortosa,5232,3913,327,413,El censo de <strong>Tortosa</strong> es <strong>14287</strong> y ha participado un <strong>69%</strong>
+toses,Toses,7579,5188,351,141,El censo de <strong>Toses</strong> es <strong>19020</strong> y ha participado un <strong>70%</strong>
+tossa-de-mar,Tossa de Mar,8323,4563,187,421,El censo de <strong>Tossa de Mar</strong> es <strong>19276</strong> y ha participado un <strong>70%</strong>
+tremp,Tremp,9101,5699,176,495,El censo de <strong>Tremp</strong> es <strong>20605</strong> y ha participado un <strong>75%</strong>
+ulla,Ullà,8519,5114,209,180,El censo de <strong>Ullà</strong> es <strong>19585</strong> y ha participado un <strong>72%</strong>
+ullastrell,Ullastrell,7428,4693,352,391,El censo de <strong>Ullastrell</strong> es <strong>18453</strong> y ha participado un <strong>70%</strong>
+ullastret,Ullastret,7626,5305,426,404,El censo de <strong>Ullastret</strong> es <strong>17132</strong> y ha participado un <strong>80%</strong>
+ulldecona,Ulldecona,7473,4567,315,270,El censo de <strong>Ulldecona</strong> es <strong>15835</strong> y ha participado un <strong>80%</strong>
+ulldemolins,Ulldemolins,9204,5745,500,499,El censo de <strong>Ulldemolins</strong> es <strong>21617</strong> y ha participado un <strong>74%</strong>
+ultramort,Ultramort,7555,5031,295,353,El censo de <strong>Ultramort</strong> es <strong>18028</strong> y ha participado un <strong>73%</strong>
+urus,Urús,9607,5409,397,257,El censo de <strong>Urús</strong> es <strong>20302</strong> y ha participado un <strong>77%</strong>
+vacarisses,Vacarisses,8160,3946,421,435,El censo de <strong>Vacarisses</strong> es <strong>18657</strong> y ha participado un <strong>69%</strong>
+vall-de-cardos,Vall de Cardós,7985,5431,382,231,El censo de <strong>Vall de Cardós</strong> es <strong>18102</strong> y ha participado un <strong>77%</strong>
+vallbona-d-anoia,Vallbona d'Anoia,8312,3666,329,172,El censo de <strong>Vallbona d'Anoia</strong> es <strong>16656</strong> y ha participado un <strong>75%</strong>
+vallbona-de-les-monges,Vallbona de les Monges,6481,4415,377,255,El censo de <strong>Vallbona de les Monges</strong> es <strong>14655</strong> y ha participado un <strong>79%</strong>
+vallcebre,Vallcebre,6590,3363,415,144,El censo de <strong>Vallcebre</strong> es <strong>14535</strong> y ha participado un <strong>72%</strong>
+vallclara,Vallclara,7928,4992,166,414,El censo de <strong>Vallclara</strong> es <strong>16673</strong> y ha participado un <strong>81%</strong>
+vallfogona-de-balaguer,Vallfogona de Balaguer,9506,3920,217,282,El censo de <strong>Vallfogona de Balaguer</strong> es <strong>18331</strong> y ha participado un <strong>76%</strong>
+vallfogona-de-ripolles,Vallfogona de Ripollès,8918,3533,484,391,El censo de <strong>Vallfogona de Ripollès</strong> es <strong>18411</strong> y ha participado un <strong>72%</strong>
+vallfogona-de-riucorb,Vallfogona de Riucorb,8734,3163,262,481,El censo de <strong>Vallfogona de Riucorb</strong> es <strong>16385</strong> y ha participado un <strong>77%</strong>
+vallgorguina,Vallgorguina,5859,3550,113,310,El censo de <strong>Vallgorguina</strong> es <strong>15760</strong> y ha participado un <strong>62%</strong>
+vallirana,Vallirana,8432,3467,439,440,El censo de <strong>Vallirana</strong> es <strong>17450</strong> y ha participado un <strong>73%</strong>
+vall-llobrega,Vall-llobrega,7009,3016,378,470,El censo de <strong>Vall-llobrega</strong> es <strong>15695</strong> y ha participado un <strong>69%</strong>
+vallmoll,Vallmoll,8731,4162,483,253,El censo de <strong>Vallmoll</strong> es <strong>16884</strong> y ha participado un <strong>81%</strong>
+vallromanes,Vallromanes,9639,5079,400,261,El censo de <strong>Vallromanes</strong> es <strong>19530</strong> y ha participado un <strong>79%</strong>
+valls,Valls,7779,4631,293,419,El censo de <strong>Valls</strong> es <strong>18795</strong> y ha participado un <strong>70%</strong>
+vandellos-i-l-hospitalet-de-l-infant,Vandellòs i l'Hospitalet de l'Infant,9549,5268,291,261,El censo de <strong>Vandellòs i l'Hospitalet de l'Infant</strong> es <strong>19765</strong> y ha participado un <strong>78%</strong>
+veciana,Veciana,9285,3862,199,425,El censo de <strong>Veciana</strong> es <strong>18866</strong> y ha participado un <strong>73%</strong>
+ventallo,Ventalló,7453,4787,169,474,El censo de <strong>Ventalló</strong> es <strong>17969</strong> y ha participado un <strong>72%</strong>
+verdu,Verdú,9809,3781,434,184,El censo de <strong>Verdú</strong> es <strong>20048</strong> y ha participado un <strong>71%</strong>
+verges,Verges,8816,4709,328,438,El censo de <strong>Verges</strong> es <strong>19972</strong> y ha participado un <strong>72%</strong>
+vespella-de-gaia,Vespella de Gaià,5892,3245,231,378,El censo de <strong>Vespella de Gaià</strong> es <strong>13679</strong> y ha participado un <strong>71%</strong>
+vic,Vic,8772,3786,359,178,El censo de <strong>Vic</strong> es <strong>17988</strong> y ha participado un <strong>73%</strong>
+vidra,Vidrà,7905,3496,236,156,El censo de <strong>Vidrà</strong> es <strong>17516</strong> y ha participado un <strong>67%</strong>
+vidreres,Vidreres,9323,4458,386,175,El censo de <strong>Vidreres</strong> es <strong>19087</strong> y ha participado un <strong>75%</strong>
+vielha-e-mijaran,Vielha e Mijaran,7567,5044,429,318,El censo de <strong>Vielha e Mijaran</strong> es <strong>17092</strong> y ha participado un <strong>78%</strong>
+vilabella,Vilabella,6013,3274,499,327,El censo de <strong>Vilabella</strong> es <strong>15809</strong> y ha participado un <strong>64%</strong>
+vilabertran,Vilabertran,7251,5881,220,461,El censo de <strong>Vilabertran</strong> es <strong>18235</strong> y ha participado un <strong>76%</strong>
+vilablareix,Vilablareix,7225,3560,239,318,El censo de <strong>Vilablareix</strong> es <strong>17268</strong> y ha participado un <strong>66%</strong>
+vilada,Vilada,9218,4685,211,431,El censo de <strong>Vilada</strong> es <strong>18923</strong> y ha participado un <strong>77%</strong>
+viladamat,Viladamat,9364,3284,110,345,El censo de <strong>Viladamat</strong> es <strong>18030</strong> y ha participado un <strong>73%</strong>
+viladasens,Viladasens,9303,5189,477,270,El censo de <strong>Viladasens</strong> es <strong>20280</strong> y ha participado un <strong>75%</strong>
+viladecans,Viladecans,5377,5854,466,413,El censo de <strong>Viladecans</strong> es <strong>18042</strong> y ha participado un <strong>67%</strong>
+viladecavalls,Viladecavalls,5134,5735,496,172,El censo de <strong>Viladecavalls</strong> es <strong>15055</strong> y ha participado un <strong>77%</strong>
+vilademuls,Vilademuls,6971,4814,313,111,El censo de <strong>Vilademuls</strong> es <strong>16705</strong> y ha participado un <strong>73%</strong>
+viladrau,Viladrau,9937,3700,393,203,El censo de <strong>Viladrau</strong> es <strong>18333</strong> y ha participado un <strong>78%</strong>
+vilafant,Vilafant,5265,4364,489,204,El censo de <strong>Vilafant</strong> es <strong>13973</strong> y ha participado un <strong>74%</strong>
+vilafranca-del-penedes,Vilafranca del Penedès,9821,4293,444,152,El censo de <strong>Vilafranca del Penedès</strong> es <strong>18776</strong> y ha participado un <strong>78%</strong>
+vilagrassa,Vilagrassa,8416,4074,457,368,El censo de <strong>Vilagrassa</strong> es <strong>17362</strong> y ha participado un <strong>77%</strong>
+vilajuiga,Vilajuïga,6015,3678,219,489,El censo de <strong>Vilajuïga</strong> es <strong>14882</strong> y ha participado un <strong>70%</strong>
+vilalba-dels-arcs,Vilalba dels Arcs,8240,4973,476,106,El censo de <strong>Vilalba dels Arcs</strong> es <strong>19536</strong> y ha participado un <strong>71%</strong>
+vilalba-sasserra,Vilalba Sasserra,6771,5145,483,137,El censo de <strong>Vilalba Sasserra</strong> es <strong>17448</strong> y ha participado un <strong>72%</strong>
+vilaller,Vilaller,7702,4757,324,381,El censo de <strong>Vilaller</strong> es <strong>18396</strong> y ha participado un <strong>72%</strong>
+vilallonga-de-ter,Vilallonga de Ter,6310,3754,201,230,El censo de <strong>Vilallonga de Ter</strong> es <strong>16285</strong> y ha participado un <strong>64%</strong>
+vilallonga-del-camp,Vilallonga del Camp,7703,4992,452,248,El censo de <strong>Vilallonga del Camp</strong> es <strong>18992</strong> y ha participado un <strong>71%</strong>
+vilamacolum,Vilamacolum,8763,3436,124,330,El censo de <strong>Vilamacolum</strong> es <strong>16592</strong> y ha participado un <strong>76%</strong>
+vilamalla,Vilamalla,8895,3105,500,443,El censo de <strong>Vilamalla</strong> es <strong>16122</strong> y ha participado un <strong>80%</strong>
+vilamaniscle,Vilamaniscle,9045,5267,215,305,El censo de <strong>Vilamaniscle</strong> es <strong>18066</strong> y ha participado un <strong>82%</strong>
+vilamos,Vilamòs,9739,5749,364,315,El censo de <strong>Vilamòs</strong> es <strong>21287</strong> y ha participado un <strong>76%</strong>
+vilanant,Vilanant,9929,5769,118,299,El censo de <strong>Vilanant</strong> es <strong>21000</strong> y ha participado un <strong>77%</strong>
+vilanova-de-bellpuig,Vilanova de Bellpuig,9545,4463,121,192,El censo de <strong>Vilanova de Bellpuig</strong> es <strong>19427</strong> y ha participado un <strong>74%</strong>
+vilanova-de-la-barca,Vilanova de la Barca,9855,3799,143,147,El censo de <strong>Vilanova de la Barca</strong> es <strong>19057</strong> y ha participado un <strong>73%</strong>
+vilanova-de-l-aguda,Vilanova de l'Aguda,5343,4671,366,384,El censo de <strong>Vilanova de l'Aguda</strong> es <strong>15455</strong> y ha participado un <strong>70%</strong>
+vilanova-de-meia,Vilanova de Meià,7699,5615,185,254,El censo de <strong>Vilanova de Meià</strong> es <strong>18734</strong> y ha participado un <strong>73%</strong>
+vilanova-de-prades,Vilanova de Prades,6728,3097,382,120,El censo de <strong>Vilanova de Prades</strong> es <strong>15088</strong> y ha participado un <strong>68%</strong>
+vilanova-de-sau,Vilanova de Sau,8959,4125,256,347,El censo de <strong>Vilanova de Sau</strong> es <strong>18221</strong> y ha participado un <strong>75%</strong>
+vilanova-de-segria,Vilanova de Segrià,6272,5786,202,157,El censo de <strong>Vilanova de Segrià</strong> es <strong>16352</strong> y ha participado un <strong>76%</strong>
+vilanova-del-cami,Vilanova del Camí,5519,5003,407,402,El censo de <strong>Vilanova del Camí</strong> es <strong>14365</strong> y ha participado un <strong>79%</strong>
+vilanova-del-valles,Vilanova del Vallès,9358,5440,409,490,El censo de <strong>Vilanova del Vallès</strong> es <strong>20840</strong> y ha participado un <strong>75%</strong>
+vilanova-d-escornalbou,Vilanova d'Escornalbou,6002,4990,467,149,El censo de <strong>Vilanova d'Escornalbou</strong> es <strong>16388</strong> y ha participado un <strong>71%</strong>
+vilanova-i-la-geltru,Vilanova i la Geltrú,9270,3133,446,207,El censo de <strong>Vilanova i la Geltrú</strong> es <strong>16322</strong> y ha participado un <strong>80%</strong>
+vilaplana,Vilaplana,5980,5796,445,453,El censo de <strong>Vilaplana</strong> es <strong>16321</strong> y ha participado un <strong>78%</strong>
+vila-rodona,Vila-rodona,7059,5895,148,272,El censo de <strong>Vila-rodona</strong> es <strong>18336</strong> y ha participado un <strong>73%</strong>
+vila-sacra,Vila-sacra,6727,4314,433,133,El censo de <strong>Vila-sacra</strong> es <strong>17473</strong> y ha participado un <strong>66%</strong>
+vila-sana,Vila-sana,5052,3390,165,378,El censo de <strong>Vila-sana</strong> es <strong>12385</strong> y ha participado un <strong>73%</strong>
+vila-seca,Vila-seca,7179,3942,203,338,El censo de <strong>Vila-seca</strong> es <strong>15816</strong> y ha participado un <strong>74%</strong>
+vilassar-de-dalt,Vilassar de Dalt,7408,4057,114,196,El censo de <strong>Vilassar de Dalt</strong> es <strong>15939</strong> y ha participado un <strong>74%</strong>
+vilassar-de-mar,Vilassar de Mar,6000,3844,405,294,El censo de <strong>Vilassar de Mar</strong> es <strong>15265</strong> y ha participado un <strong>69%</strong>
+vilaur,Vilaür,7916,4623,271,206,El censo de <strong>Vilaür</strong> es <strong>18648</strong> y ha participado un <strong>70%</strong>
+vilaverd,Vilaverd,6560,5291,265,161,El censo de <strong>Vilaverd</strong> es <strong>16053</strong> y ha participado un <strong>76%</strong>
+vilobi-del-penedes,Vilobí del Penedès,5060,4736,484,164,El censo de <strong>Vilobí del Penedès</strong> es <strong>14378</strong> y ha participado un <strong>73%</strong>
+vilobi-d-onyar,Vilobí d'Onyar,6101,3404,375,216,El censo de <strong>Vilobí d'Onyar</strong> es <strong>14771</strong> y ha participado un <strong>68%</strong>
+vilopriu,Vilopriu,5603,5735,294,100,El censo de <strong>Vilopriu</strong> es <strong>15624</strong> y ha participado un <strong>75%</strong>
+vimbodi-i-poblet,Vimbodí i Poblet,7604,3080,142,326,El censo de <strong>Vimbodí i Poblet</strong> es <strong>14285</strong> y ha participado un <strong>78%</strong>
+vinaixa,Vinaixa,9578,4844,354,409,El censo de <strong>Vinaixa</strong> es <strong>18403</strong> y ha participado un <strong>83%</strong>
+vinebre,Vinebre,6725,5487,483,183,El censo de <strong>Vinebre</strong> es <strong>18169</strong> y ha participado un <strong>71%</strong>
+vinyols-i-els-arcs,Vinyols i els Arcs,8898,4598,293,379,El censo de <strong>Vinyols i els Arcs</strong> es <strong>19199</strong> y ha participado un <strong>74%</strong>
+viver-i-serrateix,Viver i Serrateix,8185,3355,342,143,El censo de <strong>Viver i Serrateix</strong> es <strong>16370</strong> y ha participado un <strong>73%</strong>
+xerta,Xerta,5486,3469,124,133,El censo de <strong>Xerta</strong> es <strong>12905</strong> y ha participado un <strong>71%</strong>
+demarcacion-barcelona,Demarcación Barcelona,7026,3713,163,126,El censo de <strong>Demarcación Barcelona</strong> es <strong>14036</strong> y ha participado un <strong>79%</strong>
+demarcacion-tarragona,Demarcación Tarragona,9248,3611,469,337,El censo de <strong>Demarcación Tarragona</strong> es <strong>17787</strong> y ha participado un <strong>77%</strong>
+demarcacion-lleida,Demarcación Lleida,8559,4732,395,490,El censo de <strong>Demarcación Lleida</strong> es <strong>19179</strong> y ha participado un <strong>74%</strong>
+demarcacion-girona,Demarcación Girona,7628,5022,127,223,El censo de <strong>Demarcación Girona</strong> es <strong>17479</strong> y ha participado un <strong>74%</strong>
+demarcacion-aran,Demarcación Aran,8816,4466,252,460,El censo de <strong>Demarcación Aran</strong> es <strong>17850</strong> y ha participado un <strong>78%</strong>
+catalunya,CATALUNYA,9730,3053,434,143,El censo de <strong>CATALUNYA</strong> es <strong>19059</strong> y ha participado un <strong>70%</strong>
